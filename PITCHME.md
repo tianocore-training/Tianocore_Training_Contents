@@ -40,6 +40,20 @@ Note:
 @title[Schedule]
 #### <p align="center"<span class="gold"   >Suggested Schedule </span></p><br>
 
+Then next slides will have links to the appropriate slide show in the suggested order. 
+Unit 1:
+ - Overview of EDK II, UEFI Shell Lab, and overview of UEFI aware OS
+Unit 2:
+ - More details of the EDK II infrastructure and Labs with writing UEFI Applications and Drivers
+
+Unit 3:
+ - Porting and Debugging using a Open Source example with EDK II
+
+Unit 4:
+ - Advanced topics for a shorter session after Units 1-3 completed
+
+ 
+Note:
 Unit 1
   - Overview UEFI / FSP Boot Flow, EDK II Build Environment & Process, EDK II Build Spec Files, Open Source UEFI Platforms, EDK II Platform Build Lab, UEFI Shell & Edk II Build Lab, UEFI Aware OS -UEFI Secure boot-Capsule Update
 Unit 2
@@ -51,24 +65,20 @@ Unit 4
   - UEFI / EDK II Network,  UEFI / EDK II Security,  UEFI / EDK II - HII Lab 
 
 
-Note:
-
-Unit 4
-| UEFI / EDK II Network  | UEFI / EDK II Security   | UEFI / EDK II - HII Lab |
 
 ---  
 @title[Schedule 01]
-
+<br>
 ### <p align="center"<span class="gold"   >Suggested Schedule - Unit 1</span></p><br>
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
- @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='https://gitpitch.com/Laurie0131/UEFI_Boot_Flow_Pres2/master#/' >Overview UEFI Boot Flow </a> </span><br>
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp; &nbsp;   <a href='https://gitpitch.com/Laurie0131/UEFI_Boot_Flow_Pres2/master#/' >Overview UEFI Boot Flow </a> </span><br>
  @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;   <a href='https://gitpitch.com/Laurie0131/EDK__II_Build_Process_Pres_2/master#/' >EDK II Build Process</a> </span><br>
  @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='https://gitpitch.com/Laurie0131/EDK_II_Build_Spec_Files_Pres/master#/' >EDK II Build Spec Files </a> </span> <br>
- @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='https://gitpitch.com/Laurie0131/OpenSource_Platforms_Pres/master#/' > EDK II Open Source Platforms </a> </span> 
+ @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='https://gitpitch.com/Laurie0131/OpenSource_Platforms_Pres/master#/' > EDK II Open Source Platforms </a> </span> <br>
  @fa[certificate gp-bullet-ltgreen]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >EDK II Platform Build LAB </a> </span><br>
- @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >UEFI Shell & Edk II Build Lab </a> </span><br>
+ @fa[certificate gp-bullet-yellow]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >UEFI Shell & Edk II Build Lab </a> </span><br>
  @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >UEFI Aware OS </a> </span><br>
 
 
@@ -79,7 +89,7 @@ Unit 4
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
- @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >EDK II Libraries and Modules and Drivers </a> </span><br>
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp; &nbsp;   <a href='' >EDK II Libraries and Modules and Drivers </a> </span><br>
  @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >EDK II Platforms configuration Database (PCD)  </a> </span><br>
  @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='' >UEFI Application Writers Lab</a> </span> <br>
  @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='' >UEFI Driver Wizard Lab - Driver Model </a> </span> 
@@ -91,19 +101,19 @@ Unit 4
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
- @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >Porting an Existing Platform w/ EDK II using Open Source example</a> </span><br>
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp; &nbsp;   <a href='' >Porting an Existing Platform w/ EDK II exmple</a> </span><br>
  @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >Porting Beyond the Shell w/ EDK II </a> </span><br>
  @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='' >EDK II Debugging Lab </a> </span> <br>
  @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='' >Source Level Debugging w/ UDK Debugger</a> </span> 
 
- ---  
+---  
 @title[Schedule 04]
 <BR>
 ### <p align="center"<span class="gold"   >Suggested Schedule - Unit 4</span></p><br>
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
- @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >UEFI / EDK II Network </a> </span><br>
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp; &nbsp;   <a href='' >UEFI / EDK II Network </a> </span><br>
  @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >UEFI / EDK II Security </a> </span><br>
  @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='' >UEFI / EDK II - HII Lab  </a> </span> <br>
 
