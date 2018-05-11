@@ -41,8 +41,20 @@ Note:
 <BR>
 ### <p align="center"<span class="gold"   >Suggested Schedule </span></p><br>
 
+|Unit 1 | Unit 2 | Unit 3 |
+| ----------------- | ------------------ | -------------- |
+| Overview UEFI / FSP Boot Flow  | EDK II Libraries and Modules and Drivers | Porting an Existing Platform w/ EDK II using Open Source example |
+| EDK II Build Environment & Process | EDK II Platforms configuration Database (PCD) -Lab | Porting Beyond the Shell w/ EDK II |
+| EDK II Build Spec Files | UEFI Application Writers Lab | EDK II Debugging Lab |
+| Open Source UEFI Platforms | UEFI Driver Wizard Lab - Driver Model  | Source Level Debugging w/ UDK Debugger |
+| EDK II Platform Build Lab | &nbsp;  | &nbsp; |
+| UEFI Shell & Edk II Build Lab | &nbsp;  | &nbsp; |
+| UEFI Aware OS -UEFI Secure boot-Capsule Update | &nbsp;  | &nbsp; |
+| &nbsp; | &nbsp;  | &nbsp; |
 
 
+Unit 4
+| UEFI / EDK II Network  | UEFI / EDK II Security   | UEFI / EDK II - HII Lab |
 
 ---  
 @title[Schedule]
