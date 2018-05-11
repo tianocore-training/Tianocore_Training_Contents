@@ -38,36 +38,74 @@ Note:
 
 ---  
 @title[Schedule]
-<BR>
-### <p align="center"<span class="gold"   >Suggested Schedule </span></p><br>
+#### <p align="center"<span class="gold"   >Suggested Schedule </span></p><br>
 
-|Unit 1 | Unit 2 | Unit 3 |
-| ----------------- | ------------------ | -------------- |
-| Overview UEFI / FSP Boot Flow  | EDK II Libraries and Modules and Drivers | Porting an Existing Platform w/ EDK II using Open Source example |
-| EDK II Build Environment & Process | EDK II Platforms configuration Database (PCD) -Lab | Porting Beyond the Shell w/ EDK II |
-| EDK II Build Spec Files | UEFI Application Writers Lab | EDK II Debugging Lab |
-| Open Source UEFI Platforms | UEFI Driver Wizard Lab - Driver Model  | Source Level Debugging w/ UDK Debugger |
-| EDK II Platform Build Lab | &nbsp;  | &nbsp; |
-| UEFI Shell & Edk II Build Lab | &nbsp;  | &nbsp; |
-| UEFI Aware OS -UEFI Secure boot-Capsule Update | &nbsp;  | &nbsp; |
-| &nbsp; | &nbsp;  | &nbsp; |
+Unit 1
+  - Overview UEFI / FSP Boot Flow, EDK II Build Environment & Process, EDK II Build Spec Files, Open Source UEFI Platforms, EDK II Platform Build Lab, UEFI Shell & Edk II Build Lab, UEFI Aware OS -UEFI Secure boot-Capsule Update
+Unit 2
+  - EDK II Libraries and Modules and Drivers, EDK II Platforms configuration Database (PCD),  UEFI Application Writers Lab, UEFI Driver Wizard Lab - Driver Model
 
+Unit 3
+  - Porting w/ EDK II using Open Source example, Porting Beyond the Shell w/ EDK II,  EDK II Debugging Lab, Source Level Debugging w/ UDK Debugger
+Unit 4
+  - UEFI / EDK II Network,  UEFI / EDK II Security,  UEFI / EDK II - HII Lab 
+
+
+Note:
 
 Unit 4
 | UEFI / EDK II Network  | UEFI / EDK II Security   | UEFI / EDK II - HII Lab |
 
 ---  
-@title[Schedule]
-<BR>
-### <p align="center"<span class="gold"   >Suggested Schedule </span></p><br>
+@title[Schedule 01]
+
+### <p align="center"<span class="gold"   >Suggested Schedule - Unit 1</span></p><br>
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
- @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Review PI and UEFI Boot Process  </span><br><br>
- @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Answer <a href='https://github.com/tianocore/tianocore.github.io/wiki/UEFI%20EDKII%20Learning%20Dev'>web-based training</a> related questions </span><br><br>
- @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp;Answer: Where does Intel® FSP Fit? </span> <br><br>
- @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp;What’s new in UEFI.org</span> 
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='https://gitpitch.com/Laurie0131/UEFI_Boot_Flow_Pres2/master#/' >Overview UEFI Boot Flow </a> </span><br>
+ @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;   <a href='https://gitpitch.com/Laurie0131/EDK__II_Build_Process_Pres_2/master#/' >EDK II Build Process</a> </span><br>
+ @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='https://gitpitch.com/Laurie0131/EDK_II_Build_Spec_Files_Pres/master#/' >EDK II Build Spec Files </a> </span> <br>
+ @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='https://gitpitch.com/Laurie0131/OpenSource_Platforms_Pres/master#/' > EDK II Open Source Platforms </a> </span> 
+ @fa[certificate gp-bullet-ltgreen]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >EDK II Platform Build LAB </a> </span><br>
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >UEFI Shell & Edk II Build Lab </a> </span><br>
+ @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >UEFI Aware OS </a> </span><br>
 
+
+---  
+@title[Schedule 02]
+<BR>
+### <p align="center"<span class="gold"   >Suggested Schedule - Unit 2</span></p><br>
+
+<!---  Add bullets using https://fontawesome.com/cheatsheet certificate
+-->
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >EDK II Libraries and Modules and Drivers </a> </span><br>
+ @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >EDK II Platforms configuration Database (PCD)  </a> </span><br>
+ @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='' >UEFI Application Writers Lab</a> </span> <br>
+ @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='' >UEFI Driver Wizard Lab - Driver Model </a> </span> 
+
+---  
+@title[Schedule 03]
+<BR>
+### <p align="center"<span class="gold"   >Suggested Schedule - Unit 3</span></p><br>
+
+<!---  Add bullets using https://fontawesome.com/cheatsheet certificate
+-->
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >Porting an Existing Platform w/ EDK II using Open Source example</a> </span><br>
+ @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >Porting Beyond the Shell w/ EDK II </a> </span><br>
+ @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='' >EDK II Debugging Lab </a> </span> <br>
+ @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='' >Source Level Debugging w/ UDK Debugger</a> </span> 
+
+ ---  
+@title[Schedule 04]
+<BR>
+### <p align="center"<span class="gold"   >Suggested Schedule - Unit 4</span></p><br>
+
+<!---  Add bullets using https://fontawesome.com/cheatsheet certificate
+-->
+ @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >UEFI / EDK II Network </a> </span><br>
+ @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;   <a href='' >UEFI / EDK II Security </a> </span><br>
+ @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp; <a href='' >UEFI / EDK II - HII Lab  </a> </span> <br>
 
 
 
