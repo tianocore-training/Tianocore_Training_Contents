@@ -1,0 +1,242 @@
+/*
+ * GitPitch Slideshow Custom CSS Styling
+ *
+ * For details, visit Wiki:
+ * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
+ */
+body {
+  background: #000;
+  background-color: #000;
+}
+
+html:-webkit-full-screen-ancestor {
+  background: #000;
+  background-color: #000;
+}
+
+html:-moz-full-screen-ancestor {
+  background: #000;
+  background-color: #000;
+}
+
+.brick {
+  color: #BF5122;
+    text-align: center; 
+  text-align: top;
+}
+
+.gold {
+  color: #e49436;
+    text-align: center; 
+  text-align: top;
+}
+
+.gray {
+  color: #c0c0c0;
+}
+
+span.byline, span.aside {
+  color: #bbb;
+}
+
+span.byline {
+  font-size: 80%;
+}
+
+span.aside {
+  font-size: 0.7em;
+  font-style: italic;
+}
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+  background: none;
+}
+
+.reveal section a {
+  color: #BF5122;
+   text-decoration: underline;
+}
+
+.reveal section a:hover {
+  color: #FFC000;
+}
+
+.fa-pad-left {
+  margin-left: 10px;
+}
+
+.reveal p span.slide-title {
+  color: #e49436;
+  font-size: 1.2em;
+  margin: 0 0 40px 0;
+  font-family: "Arial Narrow", Impact, sans-serif;
+  font-weight: normal;
+  line-height: 0.5;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+  text-shadow: none;
+   text-align: center;
+  word-wrap: break-word;
+  display: block;
+}
+
+.reveal p span.slide-text5 {
+  color: #C0C0C0;
+  font-size: .5em;
+  font-weight: normal;
+  line-height: 0.85;
+  letter-spacing: -0.03em;
+  text-transform: none;
+  text-shadow: none;
+   text-align: left;
+  word-wrap: break-word;
+  display: block;
+}
+
+.reveal p span.slide-text {
+  color: white;
+  font-size: 1.0em;
+  font-weight: normal;
+  line-height: 0.85;
+  letter-spacing: -0.03em;
+  text-transform: none;
+  text-shadow: none;
+   text-align: left;
+  word-wrap: break-word;
+  display: block;
+}
+
+.reveal div.left {
+    float: left;
+    z-index: -10;
+    width: 45%;
+}
+
+.reveal div.right {
+    float: right;
+    z-index: -10;
+    width: 55%;
+}
+
+.reveal a.pro-link {
+    font-size: 0.5em;
+}
+
+.reveal .slides {
+    text-align: left;
+}
+
+.reveal .slides section>* {
+    margin-left: 0.90;
+    margin-right: 0;
+    line-height: .95;
+}
+
+.reveal pre {
+  width: 100%;
+  box-shadow : none;
+}
+.reveal pre code {
+  font-size: 0.8em;
+  line-height: 1.0;
+  max-height: 60vh !important;
+  opacity: 0.95;
+  border-radius: 10px;
+}
+
+.reveal .slides section .code-presenting-annotation {
+  color: white;
+  background: #1f1c18;
+  padding: 1px 15px;
+  border-radius: 15px;
+  opacity: 0.75 !important;
+  font-size: 60% !important;
+}
+
+.gp-tip { font-size : 1.5em; }
+
+.gp-contact { font-size : 1.4em; }
+
+.gp-download { margin-left: 10px; }
+
+.gp-bullet-green { 
+  color: #00CC99;
+  margin-left: 10px; 
+}
+
+.gp-bullet-cyan { 
+  color:#00FFFF;
+  margin-left: 10px; 
+}
+
+.gp-bullet-yellow { 
+  color:#FFFF00;
+  margin-left: 10px; 
+}
+
+.gp-bullet-cream { 
+  color:#FFFF99;
+  margin-left: 10px; 
+}
+
+.gp-bullet-magenta { 
+  color:#ff00ff;
+  margin-left: 10px; 
+}
+
+.gp-bullet-ltgreen { 
+  color:#87E2A9;
+  margin-left: 10px; 
+}
+
+.gp-bullet-gold { 
+  color:#FFC000;
+  margin-left: 10px; 
+}
+
+
+h6 {
+    font-weight: bold;
+    font-size: 50%;
+}
+   
+.no-bullet {
+    list-style-type: none !important;
+    list-style-position: outside !important;
+}
+
+.cyan {
+  color: #00FFFF;
+}
+.yellow {
+  color: #FFFF00;
+}
+.magenta {
+  color: #ff00ff;
+}
+.lt_green {
+  color: #87E2A9;
+}
+.green {
+  color:  #00CC99;
+}
+
+.cream {
+  color: #FFFF99;
+}
+.gold2 {
+  color: #FFC000;
+}
+.u-term{
+  color: #300a24;
+}
+
+
+
+
+
+
+
+
