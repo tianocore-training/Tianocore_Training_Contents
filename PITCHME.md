@@ -41,7 +41,7 @@ Note:
 #### <p align="center"<span class="gold"   >Suggested Schedule </span></p><br>
 
 Then next slides will have links to the appropriate slide show in the suggested order. <br>
-- Unit 1:  Overview of EDK II, UEFI Shell Lab, and overview of UEFI aware OS<br>
+- <font color="yellow">Unit 1:  Overview of EDK II, UEFI Shell Lab, and overview of UEFI aware OS</font><br>
 - Unit 2:  More details of the EDK II infrastructure and Labs with writing UEFI Applications and Drivers<br>
 - Unit 3:  Porting and Debugging using a Open Source example with EDK II<br>
 - Unit 4:  Advanced topics for a shorter session after Units 1-3 completed
