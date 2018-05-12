@@ -85,8 +85,8 @@ Unit 4
 -->
 @fa[certificate gp-bullet-green]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >EDK II Libraries and Modules and Drivers </a> </span><br>
 @fa[certificate gp-bullet-cyan]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >EDK II Platforms configuration Database (PCD)  </a> </span><br>
-@fa[certificate gp-bullet-yellow] <span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >UEFI Application Writers Lab</a> </span> <br>
-@fa[certificate gp-bullet-magenta]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span> <span style="font-size:0.9em"><a href='' >UEFI Driver Wizard Lab - Driver Model </a> </span> 
+@fa[certificate gp-bullet-yellow] <span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >UEFI Application Writers Lab</a> </span> <br>
+@fa[certificate gp-bullet-magenta]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >UEFI Driver Wizard Lab - Driver Model </a> </span> 
 
 ---  
 @title[Schedule 03]
