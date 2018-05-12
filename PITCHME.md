@@ -8,7 +8,7 @@
 <br>
 <span style="font-size:0.75em" ><a href='http://www.tianocore.org'>tianocore.org</a></span>
 Note:
-  PITCHME.md for UEFI / EDK II Training  UEFI Boot flow and Overview
+  PITCHME.md for UEFI / EDK II Training  Contents and Overview
 
   Copyright (c) 2018, Intel Corporation. All rights reserved.<BR>
 
@@ -40,7 +40,7 @@ Note:
 @title[Schedule]
 #### <p align="center"<span class="gold"   >Suggested Schedule </span></p><br>
 
-Then next slides will have links to the appropriate slide show in the suggested order. <br>
+The next slides will have links to the appropriate slide show in the suggested order. <br>
 - <font color="yellow">Unit 1:</font>  <span style="font-size:0.9em">Overview of EDK II, UEFI Shell Lab, and overview of UEFI aware OS</span><br>
 - <font color="yellow">Unit 2:</font>  <span style="font-size:0.9em">More details of the EDK II infrastructure and Labs with writing UEFI Applications and Drivers</span><br>
 - <font color="yellow">Unit 3:</font>  <span style="font-size:0.9em">Porting and Debugging using a Open Source example with EDK II</span><br>
