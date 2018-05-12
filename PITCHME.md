@@ -67,13 +67,13 @@ Unit 4
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
-@fa[certificate gp-bullet-green]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_Boot_Flow_Pres2/master#/' >&nbsp;&nbsp;Overview UEFI Boot Flow </a> </span><br>
-@fa[certificate gp-bullet-cyan]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK__II_Build_Process_Pres_2/master#/' >&nbsp;&nbsp;EDK II Build Process</a> </span><br>
-@fa[certificate gp-bullet-yellow]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK_II_Build_Spec_Files_Pres/master#/' >&nbsp;&nbsp;EDK II Build Spec Files </a> </span> <br>
-@fa[certificate gp-bullet-magenta]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/OpenSource_Platforms_Pres/master#/' >&nbsp;&nbsp;EDK II Open Source Platforms </a> </span><br>
-@fa[certificate gp-bullet-ltgreen]<span style="font-size:0.9em"><a href='' >&nbsp;&nbsp;EDK II Platform Build LAB </a> </span><br>
-@fa[certificate gp-bullet-yellow]<span style="font-size:0.9em"><a href='' >&nbsp;&nbsp;UEFI Shell & Edk II Build Lab </a> </span><br>
-@fa[certificate gp-bullet-cyan]<span style="font-size:0.9em"><a href='' >&nbsp;&nbsp;UEFI Aware OS </a> </span>
+@fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_Boot_Flow_Pres2/master#/' >Overview UEFI Boot Flow </a> </span><br>
+@fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK__II_Build_Process_Pres_2/master#/' >EDK II Build Process</a> </span><br>
+@fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK_II_Build_Spec_Files_Pres/master#/' >EDK II Build Spec Files </a> </span> <br>
+@fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/OpenSource_Platforms_Pres/master#/' >EDK II Open Source Platforms </a> </span><br>
+@fa[certificate gp-bullet-ltgreen]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >EDK II Platform Build LAB </a> </span><br>
+@fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >UEFI Shell & Edk II Build Lab </a> </span><br>
+@fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >UEFI Aware OS </a> </span>
 
 
 ---  
@@ -83,10 +83,10 @@ Unit 4
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
-@fa[certificate gp-bullet-green]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >EDK II Libraries and Modules and Drivers </a> </span><br>
-@fa[certificate gp-bullet-cyan]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >EDK II Platforms configuration Database (PCD)  </a> </span><br>
-@fa[certificate gp-bullet-yellow]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >UEFI Application Writers Lab</a> </span> <br>
-@fa[certificate gp-bullet-magenta]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >UEFI Driver Wizard Lab - Driver Model </a> </span> 
+@fa[certificate gp-bullet-green]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='' >EDK II Libraries and Modules and Drivers </a> </span><br>
+@fa[certificate gp-bullet-cyan]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='' >EDK II Platforms configuration Database (PCD)  </a> </span><br>
+@fa[certificate gp-bullet-yellow]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='' >UEFI Application Writers Lab</a> </span> <br>
+@fa[certificate gp-bullet-magenta]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='' >UEFI Driver Wizard Lab - Driver Model </a> </span> 
 
 ---  
 @title[Schedule 03]
@@ -95,10 +95,10 @@ Unit 4
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
- @fa[certificate gp-bullet-green]<span style="font-size:0.9em"><a href='' >Porting an Existing Platform w/ EDK II exmple</a> </span><br>
- @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em"><a href='' >Porting Beyond the Shell w/ EDK II </a> </span><br>
- @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em"><a href='' >EDK II Debugging Lab </a> </span> <br>
- @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em"><a href='' >Source Level Debugging w/ UDK Debugger</a> </span> 
+ @fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >Porting an Existing Platform w/ EDK II exmple</a> </span><br>
+ @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >Porting Beyond the Shell w/ EDK II </a> </span><br>
+ @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >EDK II Debugging Lab </a> </span> <br>
+ @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >Source Level Debugging w/ UDK Debugger</a> </span> 
 
 ---  
 @title[Schedule 04]
@@ -107,17 +107,17 @@ Unit 4
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
- @fa[certificate gp-bullet-green]<span style="font-size:0.9em"><a href='' >UEFI / EDK II Network </a> </span><br>
- @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em"><a href='' >UEFI / EDK II Security </a> </span><br>
- @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em"><a href='' >UEFI / EDK II - HII Lab  </a> </span> <br>
+ @fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >UEFI / EDK II Network </a> </span><br>
+ @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >UEFI / EDK II Security </a> </span><br>
+ @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >UEFI / EDK II - HII Lab  </a> </span> <br>
 
 
 
 ---?image=assets/images/binary-strings-black2.jpg
 @title[UEFI Boot Flow Section]
 <br><br><br><br><br>
-## <span class="gold"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UEFI Boot Execution Flow</span>
-<span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Starting at the processor reset vector</span>
+## <span class="gold"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section Divider example</span>
+<span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is an example for a section divider</span>
 
 
 ---?image=assets/images/gitpitch-audience.jpg
