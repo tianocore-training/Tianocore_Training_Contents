@@ -67,13 +67,13 @@ Unit 4
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
-@fa[certificate gp-bullet-green]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_Boot_Flow_Pres2/master#/' >Overview UEFI Boot Flow </a> </span><br>
-@fa[certificate gp-bullet-cyan]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK__II_Build_Process_Pres_2/master#/' >EDK II Build Process</a> </span><br>
-@fa[certificate gp-bullet-yellow]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK_II_Build_Spec_Files_Pres/master#/' >EDK II Build Spec Files </a> </span> <br>
-@fa[certificate gp-bullet-magenta]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/OpenSource_Platforms_Pres/master#/' > EDK II Open Source Platforms </a> </span><br>
-@fa[certificate gp-bullet-ltgreen]<span style="font-size:0.9em"><a href='' >EDK II Platform Build LAB </a> </span><br>
-@fa[certificate gp-bullet-yellow]<span style="font-size:0.9em"><a href='' >UEFI Shell & Edk II Build Lab </a> </span><br>
-@fa[certificate gp-bullet-cyan]<span style="font-size:0.9em"><a href='' >UEFI Aware OS </a> </span>
+@fa[certificate gp-bullet-green]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_Boot_Flow_Pres2/master#/' >&nbsp;&nbsp;Overview UEFI Boot Flow </a> </span><br>
+@fa[certificate gp-bullet-cyan]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK__II_Build_Process_Pres_2/master#/' >&nbsp;&nbsp;EDK II Build Process</a> </span><br>
+@fa[certificate gp-bullet-yellow]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK_II_Build_Spec_Files_Pres/master#/' >&nbsp;&nbsp;EDK II Build Spec Files </a> </span> <br>
+@fa[certificate gp-bullet-magenta]<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/OpenSource_Platforms_Pres/master#/' >&nbsp;&nbsp;EDK II Open Source Platforms </a> </span><br>
+@fa[certificate gp-bullet-ltgreen]<span style="font-size:0.9em"><a href='' >&nbsp;&nbsp;EDK II Platform Build LAB </a> </span><br>
+@fa[certificate gp-bullet-yellow]<span style="font-size:0.9em"><a href='' >&nbsp;&nbsp;UEFI Shell & Edk II Build Lab </a> </span><br>
+@fa[certificate gp-bullet-cyan]<span style="font-size:0.9em"><a href='' >&nbsp;&nbsp;UEFI Aware OS </a> </span>
 
 
 ---  
@@ -85,7 +85,7 @@ Unit 4
 -->
 @fa[certificate gp-bullet-green]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >EDK II Libraries and Modules and Drivers </a> </span><br>
 @fa[certificate gp-bullet-cyan]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >EDK II Platforms configuration Database (PCD)  </a> </span><br>
-@fa[certificate gp-bullet-yellow]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >UEFI Application Writers Lab</a> </span> <br>
+@fa[certificate gp-bullet-yellow]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >UEFI Application Writers Lab</a> </span> <br>
 @fa[certificate gp-bullet-magenta]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="font-size:0.9em"><a href='' >UEFI Driver Wizard Lab - Driver Model </a> </span> 
 
 ---  
