@@ -32,7 +32,7 @@
 # Tianocore_Training_Contents
 Table of Contents and suggested course Schedule
   
-To see the Slides goto https://gitpitch.com/Laurie0131/Tianocore_Training_Contents/master#/
+To see the Slides with links to the presentations goto https://gitpitch.com/Laurie0131/Tianocore_Training_Contents/master#/
 
 
 |Unit 1 | Unit 2 | Unit 3 |
@@ -47,5 +47,7 @@ To see the Slides goto https://gitpitch.com/Laurie0131/Tianocore_Training_Conten
 | &nbsp; | &nbsp;  | &nbsp; |
 
 
-Unit 4
-| UEFI / EDK II Network  | UEFI / EDK II Security   | UEFI / EDK II - HII Lab |
+Unit 4 Advanced topics
+-  UEFI / EDK II Network  
+-  UEFI / EDK II Security   -
+-  UEFI / EDK II - HII Lab |
