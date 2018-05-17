@@ -56,7 +56,7 @@ Unit 2
 Unit 3
   - Porting w/ EDK II using Open Source example, Porting Beyond the Shell w/ EDK II,  EDK II Debugging Lab, Source Level Debugging w/ UDK Debugger
 Unit 4
-  - UEFI / EDK II Network,  UEFI / EDK II Security,  UEFI / EDK II - HII Lab 
+  - UEFI / EDK II Network,  UEFI / EDK II Security,  UEFI / EDK II - HII Lab, EDK Compatibility Package
 
 
 
@@ -111,6 +111,7 @@ Unit 4
  @fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >UEFI / EDK II Network </a> </span><br>
  @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >UEFI / EDK II Security </a> </span><br>
  @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >UEFI / EDK II - HII Lab  </a> </span> <br>
+ @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >EDK 1.0  Compatibility Package (ECP)</a> </span> <br>
 
 
 
