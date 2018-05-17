@@ -73,7 +73,7 @@ Unit 4
 @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/OpenSource_Platforms_Pres/master#/' >EDK II Open Source Platforms </a> </span><br>
 @fa[certificate gp-bullet-ltgreen]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/Platform_Build_LAB/master#/'>EDK II Platform Build LABs </a>
 (<a href='https://gitpitch.com/Laurie0131/Platform_Build_LAB/master#/2'>Ovmf </a>| <a href='https://gitpitch.com/Laurie0131/Platform_Build_LAB/master#/16'>Max HW setup</a> | <a href='https://gitpitch.com/Laurie0131/Platform_Build_LAB/master#/24'>Max </a>)  </span><br>
-@fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >UEFI Shell & Edk II Build LAB </a> </span><br>
+@fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_Shell_App_pres/master#/' >UEFI Shell Overview</a> & <a href='https://gitpitch.com/Laurie0131/UEFI_Shell_Lab/master#/' >Shell LAB </a> </span><br>
 @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >UEFI Aware OS </a> </span>
 
 
