@@ -76,7 +76,7 @@ Unit 4
 @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_Aware_OS_pres/master#/' >UEFI Aware OS</a> , 
 <a href='https://gitpitch.com/Laurie0131/UEFI_Aware_OS_pres/master#/14'>Secure Boot</a> , 
 <a href='https://gitpitch.com/Laurie0131/UEFI_Aware_OS_pres/master#/22'>Smm/MMI</a> , 
-<a href='https://gitpitch.com/Laurie0131/UEFI_Aware_OS_pres/master#/29'>coreboot</a> </span>
+<a href='https://gitpitch.com/Laurie0131/UEFI_Aware_OS_pres/master#/29'>coreboot</a> </span><br>
 @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/Capsule_Update_pres/master#/' >UEFI Capsule Update </a> </span> <br>
 
 
