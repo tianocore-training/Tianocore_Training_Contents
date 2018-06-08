@@ -101,7 +101,7 @@ Unit 4
 -->
  @fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK_II_Porting_Projects_pres/master#/' >Porting an Existing Platform w/ EDK II example</a> </span><br>
  @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK_II_Porting_beyond_Shell_pres/master#/' >Porting Beyond the Shell w/ EDK II </a> </span><br>
- @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >EDK II Debugging Lab </a> </span> <br>
+ @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK_II_Debugging_pres/master#/' >EDK II Debugging Presentation and Lab </a> </span> <br>
  @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >Source Level Debugging w/ UDK Debugger</a> </span> 
 
 ---  
