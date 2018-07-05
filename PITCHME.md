@@ -62,7 +62,7 @@ Unit 4
 
 ---  
 @title[Schedule 01]
-<br>
+
 ### <p align="center"<span class="gold"   >Suggested Schedule - Unit 1</span></p><br>
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
@@ -72,6 +72,8 @@ Unit 4
 @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/OpenSource_Platforms_Pres/master#/' >EDK II Open Source Platforms </a> </span><br>
 @fa[certificate gp-bullet-ltgreen]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/Platform_Build_LAB/master#/'>EDK II Platform Build LABs </a>
 (<a href='https://gitpitch.com/Laurie0131/Platform_Build_LAB/master#/2'>Ovmf </a>| <a href='https://gitpitch.com/Laurie0131/Platform_Build_LAB/master#/18'>Max HW setup</a> | <a href='https://gitpitch.com/Laurie0131/Platform_Build_LAB/master#/26'>Max </a>)  </span><br>
+@fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/Platform_Build_Win_Lab/master#/'>EDK II Platform Build Windows </a>
+(<a href='https://gitpitch.com/Laurie0131/Platform_Build_Win_Lab/master#/9'>Nt32 </a>| <a href='https://gitpitch.com/Laurie0131/Platform_Build_Win_Lab/master#/21'>Max HW setup</a> | <a href='https://gitpitch.com/Laurie0131/Platform_Build_Win_Lab/master#/30'>Max </a>)  </span><br>
 @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_Shell_App_pres/master#/' >UEFI Shell Overview</a> & <a href='https://gitpitch.com/Laurie0131/UEFI_Shell_Lab/master#/' >Shell LAB </a> </span><br>
 @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_Aware_OS_pres/master#/' >UEFI Aware OS</a> , 
 <a href='https://gitpitch.com/Laurie0131/UEFI_Aware_OS_pres/master#/14'>Secure Boot</a> , 
