@@ -117,8 +117,7 @@ Unit 4
         <a href="https://gitpitch.com/Laurie0131/UEFI_EDK_II_Network_pres/master#/26">UEFI Protocols for EDK II</a>&nbsp; , &nbsp;<a href="https://gitpitch.com/Laurie0131/UEFI_EDK_II_Network_pres/master#/50">HTTP(s) Boot</a> </span><br>
  @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_Platform_Security_pres/master#/' >UEFI / EDK II Platform Firmware Security </a> </span><br>
  @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >UEFI / EDK II - HII Lab  </a> </span> <br>
- @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='' >EDK 1.0  Compatibility Package (ECP)</a> </span> <br>
-
+ 
 
 
 ---?image=assets/images/binary-strings-black2.jpg
