@@ -130,7 +130,7 @@ Unit 4
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Questions]
 <br>
-![Questions](/assets/images/Questions.png =10x) 
+![Questions](/assets/images/questions.JPG =10x) 
 
 
 ---?image=assets/images/gitpitch-audience.jpg
