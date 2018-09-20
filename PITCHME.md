@@ -120,14 +120,6 @@ Unit 4
  @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_HII_Overview_pres/master#/' >UEFI / EDK II - HII Overview and Lab  </a> </span> <br>
  
 
-
----?image=assets/images/binary-strings-black2.jpg
-@title[UEFI Boot Flow Section]
-<br><br><br><br><br>
-## <span class="gold"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section Divider example</span>
-<span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is an example for a section divider</span>
-
-
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Questions]
 <br>
@@ -174,3 +166,22 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 **/
 
 ```
+
+
+---?image=assets/images/binary-strings-black2.jpg
+@title[UEFI Boot Flow Section]
+<br><br><br><br><br>
+## <span class="gold"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section Divider example</span>
+<span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is an example for a section divider</span>
+
+  
+---  
+@title[Summary]
+<BR>
+### <p align="center"><span class="gold"   >Summary </span></p><br>
+<ul style="list-style-type:none">
+ <li>@fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Point 1</span> </li>
+ <li>@fa[certificate gp-bullet-cyan]<span style="font-size:0.9em">&nbsp;&nbsp;Point 2</span></li>
+ <li>@fa[certificate gp-bullet-yellow]<span style="font-size:0.9em">&nbsp;&nbsp;Point 3</span> </li>
+ <li>@fa[certificate gp-bullet-magenta]<span style="font-size:0.9em">&nbsp;&nbsp;Point 4 </span> </li>
+</ul>
