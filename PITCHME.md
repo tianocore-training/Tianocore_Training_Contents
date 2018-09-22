@@ -49,14 +49,14 @@ The next slides will have links to the appropriate slide show in the suggested o
  
 Note:
 Unit 1
-  - Overview UEFI / FSP Boot Flow, EDK II Build Environment & Process, EDK II Build Spec Files, Open Source UEFI Platforms, EDK II Platform Build Lab, UEFI Shell & Edk II Build Lab, UEFI Aware OS -UEFI Secure boot-Capsule Update
+  - Overview UEFI / FSP Boot Flow, EDK II Build Environment & Process, EDK II Build Spec Files, Open Source UEFI Platforms, EDK II Platform Build Lab, UEFI Shell & Edk II Build Lab, UEFI Aware OS -UEFI Secure boot
 Unit 2
   - EDK II Libraries and Modules and Drivers, EDK II Platforms configuration Database (PCD),  UEFI Application Writers Lab, UEFI Driver Wizard Lab - Driver Model
 
 Unit 3
   - Porting w/ EDK II using Open Source example, Porting Beyond the Shell w/ EDK II,  EDK II Debugging Lab, Source Level Debugging w/ UDK Debugger
 Unit 4
-  - UEFI / EDK II Network,  UEFI / EDK II Security,  UEFI / EDK II - HII Lab, EDK Compatibility Package
+  - UEFI / EDK II Network,  UEFI / EDK II Security, UEFI Capsule Update, UEFI / EDK II - HII Lab, EDK Compatibility Package
 
 
 
@@ -79,7 +79,6 @@ Unit 4
 <a href='https://gitpitch.com/Laurie0131/UEFI_Aware_OS_pres/master#/14'>Secure Boot</a> , 
 <a href='https://gitpitch.com/Laurie0131/UEFI_Aware_OS_pres/master#/22'>Smm/MMI</a> , 
 <a href='https://gitpitch.com/Laurie0131/UEFI_Aware_OS_pres/master#/29'>coreboot</a> </span><br>
-@fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/Capsule_Update_pres/master#/' >UEFI Capsule Update </a> </span> <br>
 
 
 ---  
@@ -117,6 +116,7 @@ Unit 4
  @fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_EDK_II_Network_pres/master#/' >UEFI / EDK II Network </a> - &nbsp;&nbsp;<a href="https://gitpitch.com/Laurie0131/UEFI_EDK_II_Network_pres/master#/13">EDK II Network Features</a>&nbsp;&nbsp;,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://gitpitch.com/Laurie0131/UEFI_EDK_II_Network_pres/master#/26">UEFI Protocols for EDK II</a>&nbsp; , &nbsp;<a href="https://gitpitch.com/Laurie0131/UEFI_EDK_II_Network_pres/master#/50">HTTP(s) Boot</a> </span><br>
  @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_Platform_Security_pres/master#/' >UEFI / EDK II Platform Firmware Security </a> </span><br>
+ @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/Capsule_Update_pres/master#/' >UEFI Capsule Update </a> </span> <br>
  @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_HII_Overview_pres/master#/' >UEFI / EDK II - HII Overview and Lab  </a> </span> <br>
  
 

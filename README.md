@@ -43,11 +43,12 @@ To see the Slides with links to the presentations goto https://gitpitch.com/Laur
 | Open Source UEFI Platforms | UEFI Driver Wizard Lab - Driver Model  | Source Level Debugging w/ UDK Debugger |
 | EDK II Platform Build Lab | &nbsp;  | &nbsp; |
 | UEFI Shell & Edk II Build Lab | &nbsp;  | &nbsp; |
-| UEFI Aware OS -UEFI Secure boot-Capsule Update | &nbsp;  | &nbsp; |
+| UEFI Aware OS -UEFI Secure boot | &nbsp;  | &nbsp; |
 | &nbsp; | &nbsp;  | &nbsp; |
 
 
 Unit 4 Advanced topics
 -  UEFI / EDK II Network  
 -  UEFI / EDK II Security   -
+-  UEFI / EDK II Capsule Update
 -  UEFI / EDK II - HII Lab |
