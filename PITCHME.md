@@ -90,9 +90,9 @@ Unit 4
 -->
 @fa[certificate gp-bullet-green]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/EDK_II_Modules_Libs_Drivers_pres/master#/' >EDK II Libraries and Modules and Drivers </a> </span><br>
 @fa[certificate gp-bullet-cyan]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/Platform_Config_DB_PCD_pres/master#/' >EDK II Platforms Configuration Database (PCD)  </a> </span><br>
-@fa[certificate gp-bullet-yellow]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/Writing_UEFI_App_Lab/master#/' >UEFI Application Writers LAB-Linux </a> <a href="https://gitpitch.com/Laurie0131/Writing_UEFI_App_WIN_Lab/master#/"> - Windows</a> </span> <br>
+@fa[certificate gp-bullet-yellow]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/Writing_UEFI_App_Lab/master#/' >UEFI Application Writers LAB-Linux </a> &nbsp;&nbsp;- <a href="https://gitpitch.com/Laurie0131/Writing_UEFI_App_WIN_Lab/master#/">Windows</a> </span> <br>
 @fa[certificate gp-bullet-magenta]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/Laurie0131/UEFI_Driver_pres/master#/' >UEFI Driver Model</a> - <a href="https://gitpitch.com/Laurie0131/UEFI_Driver_Wizard_lab/master#/">UEFI Driver Wizard </a> and <a href='https://gitpitch.com/Laurie0131/UEFI_Driver_Porting_lab/master#/' >Porting Lab </a>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://gitpitch.com/Laurie0131/UEFI_Driver_Wizard_Win_lab/master#/'>Windows Wizard </a><a href='https://gitpitch.com/Laurie0131/UEFI_Driver_Porting_Win_lab/master#/'>Windows Porting Lab </a>   </span> 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://gitpitch.com/Laurie0131/UEFI_Driver_Wizard_Win_lab/master#/'>Windows Wizard </a>&nbsp;&nbsp;- <a href='https://gitpitch.com/Laurie0131/UEFI_Driver_Porting_Win_lab/master#/'>Windows Porting Lab </a>   </span> 
 
 ---  
 @title[Schedule 03]
