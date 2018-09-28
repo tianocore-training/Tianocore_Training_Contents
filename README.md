@@ -35,20 +35,16 @@ Table of Contents and suggested course Schedule
 To see the Slides with links to the presentations goto https://gitpitch.com/Laurie0131/Tianocore_Training_Contents/master#/
 
 
-|Unit 1 | Unit 2 | Unit 3 |
-| ----------------- | ------------------ | -------------- |
-| Overview UEFI / FSP Boot Flow  | EDK II Libraries and Modules and Drivers | Porting an Existing Platform w/ EDK II using Open Source example |
-| EDK II Build Environment & Process | EDK II Platforms configuration Database (PCD) -Lab | Porting Beyond the Shell w/ EDK II |
-| EDK II Build Spec Files | UEFI Application Writers Lab | EDK II Debugging Lab |
-| Open Source UEFI Platforms | UEFI Driver Wizard Lab - Driver Model  | Source Level Debugging w/ UDK Debugger |
-| EDK II Platform Build Lab | &nbsp;  | &nbsp; |
-| UEFI Shell & Edk II Build Lab | &nbsp;  | &nbsp; |
-| UEFI Aware OS -UEFI Secure boot | &nbsp;  | &nbsp; |
-| &nbsp; | &nbsp;  | &nbsp; |
+
+|Unit 1 | Unit 2 | Unit 3 | Unit 4 |
+| ----------------- | ------------------ | -------------- | -------------- |
+| Overview UEFI / FSP Boot Flow  | EDK II Libraries and Modules and Drivers | Porting an Existing Platform w/ EDK II using Open Source example | UEFI / EDK II Network  |
+| EDK II Build Environment & Process | EDK II Platforms configuration Database (PCD) -Lab | Porting Beyond the Shell w/ EDK II | UEFI / EDK II Security |
+| EDK II Build Spec Files | UEFI Application Writers Lab | EDK II Debugging Lab | UEFI / EDK II Capsule Update |
+| Open Source UEFI Platforms | UEFI Driver Wizard Lab - Driver Model  | Source Level Debugging w/ UDK Debugger | UEFI / EDK II - HII Lab |
+| EDK II Platform Build Lab | &nbsp;  | &nbsp; | &nbsp; |
+| UEFI Shell & Edk II Build Lab | &nbsp;  | &nbsp; |&nbsp; |
+| UEFI Aware OS -UEFI Secure boot | &nbsp;  | &nbsp; |&nbsp; |
+| &nbsp; | &nbsp;  | &nbsp; |&nbsp; |
 
 
-Unit 4 Advanced topics
--  UEFI / EDK II Network  
--  UEFI / EDK II Security   -
--  UEFI / EDK II Capsule Update
--  UEFI / EDK II - HII Lab |
