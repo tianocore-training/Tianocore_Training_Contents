@@ -32,7 +32,7 @@
 # Tianocore_Training_Contents
 Table of Contents and suggested course Schedule
   
-To see the Slides with links to the presentations goto https://gitpitch.com/Laurie0131/Tianocore_Training_Contents/master#/
+To see the Slides with links to the presentations goto https://gitpitch.com/tianocore-training/Tianocore_Training_Contents/master#/
 
 
 
