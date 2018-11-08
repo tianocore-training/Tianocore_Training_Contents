@@ -119,7 +119,7 @@ Unit 4
         <a href="https://gitpitch.com/tianocore-training/UEFI_EDK_II_Network_Pres/master#/26">UEFI Protocols for EDK II</a>&nbsp; , &nbsp;<a href="https://gitpitch.com/tianocore-training/UEFI_EDK_II_Network_Pres/master#/50">HTTP(s) Boot</a> </span><br>
  @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/UEFI_Platform_Security_Pres/master#/' >UEFI / EDK II Platform Firmware Security </a> </span><br>
  @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/Capsule_Update_Pres/master#/' >UEFI Capsule Update </a> </span> <br>
- @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/UEFI_HII_Overview_Pres/master#/' >UEFI / EDK II - HII Overview Presenation and Lab  </a> </span> <br>
+ @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/UEFI_HII_Overview_Pres_Lab/master#/' >UEFI / EDK II - HII Overview Presenation and Lab  </a> </span> <br>
  
 
 ---?image=assets/images/gitpitch-audience.jpg
