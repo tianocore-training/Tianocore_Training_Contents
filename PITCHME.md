@@ -41,10 +41,10 @@ Note:
 #### <p align="center"<span class="gold"   >Suggested Schedule </span></p>
 
 The next slides will have links to the appropriate slide show in the suggested order. <br>
-- <font color="yellow">Unit 1:</font>  <span style="font-size:0.9em">Overview of EDK II, UEFI Shell Lab, Platform Build Lab</span><br>
-- <font color="yellow">Unit 2:</font>  <span style="font-size:0.9em">More details of the EDK II infrastructure and Labs with writing UEFI Applications, UEFI Driver Model with writing Lab</span><br>
-- <font color="yellow">Unit 3:</font>  <span style="font-size:0.9em">Porting and Debugging using a Open Source example with EDK II</span><br>
-- <font color="yellow">Unit 4:</font>  <span style="font-size:0.9em">Advanced topics for a shorter session after Units 1-3 completed: UEFI Network, UEFI Platform FW security, UEFI HII overview and lab</span>
+- <font color="yellow">Unit 1:</font>  <span style="font-size:0.8em">Overview of EDK II, UEFI Shell Lab, Platform Build Lab</span><br>
+- <font color="yellow">Unit 2:</font>  <span style="font-size:0.8em">UEFI Aware OS -UEFI Secure boot, More details of the EDK II infrastructure and Labs with writing UEFI Applications, UEFI Driver Model with writing Lab</span><br>
+- <font color="yellow">Unit 3:</font>  <span style="font-size:0.8em">Porting and Debugging using a Open Source example with EDK II</span><br>
+- <font color="yellow">Unit 4:</font>  <span style="font-size:0.8em">Advanced topics for a shorter session after Units 1-3 completed: UEFI Network, UEFI Platform FW security, UEFI HII overview and lab</span>
 
  
 Note:
