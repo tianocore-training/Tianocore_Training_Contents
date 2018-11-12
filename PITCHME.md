@@ -58,60 +58,7 @@ Unit 3
 Unit 4
   - UEFI / EDK II Network,  UEFI / EDK II Security, UEFI Capsule Update, UEFI / EDK II - HII Lab, EDK Compatibility Package
 
----  
-@title[Schedule 2]
-#### <p align="center"<span class="gold"   >Suggested Schedule </span></p>
-<table id="recTable">
-	<tr>
-		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 1</b></span></p></td>
-		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 2</b></span></p></td>
-		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 3</b></span></p></td>
-		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 4</b></span></p></td>
-	</tr>
-	<tr>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Overview</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Aware OS </span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >Porting Project</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Network</span></p></td>
-	</tr>
-	<tr>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Build Env </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Libs, Modules, Drivers </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Porting Board </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI FW Security </span></p></td>
-	</tr>
-	<tr>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >Build Spec Files</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >PCDs</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >Porting Beyond Shell</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Capsules</span></p></td>
-	</tr>
-	<tr>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Open Source</span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Writing UEFI Apps </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >EDK II Debugging </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI HII</span></p></td>
-	</tr>
-	<tr>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >Platform Build Lab</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Drivers</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UDK Debugger Tool </span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >&nbsp;</span></p></td>
-	</tr>
-	<tr>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Shell </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Driver Wizard Lab </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >&nbsp; </span></p></td>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >&nbsp; </span></p></td>
-	</tr>
-	<tr>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >Shell Lab</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Driver Lab</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" ></span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" ></span></p></td>
-	</tr>
-</table>
-  
+
 ---
 @title[GitPitch]
 <p align="center"<span class="gold"   >About GitPitch</span></p>
@@ -188,7 +135,60 @@ see https://github.com/gitpitch/gitpitch/wiki
  @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/Capsule_Update_Pres/master#/' >UEFI Capsule Update </a> </span> <br>
  @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/UEFI_HII_Overview_Pres_Lab/master#/' >UEFI / EDK II - HII Overview Presenation and Lab  </a> </span> <br>
  
-
+---  
+@title[Schedule 2]
+#### <p align="center"<span class="gold"   >Suggested Schedule Table</span></p>
+<table id="recTable">
+	<tr>
+		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 1</b></span></p></td>
+		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 2</b></span></p></td>
+		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 3</b></span></p></td>
+		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 4</b></span></p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Overview</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Aware OS </span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >Porting Project</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Network</span></p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Build Env </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Libs, Modules, Drivers </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Porting Board </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI FW Security </span></p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >Build Spec Files</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >PCDs</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >Porting Beyond Shell</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Capsules</span></p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Open Source</span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Writing UEFI Apps </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >EDK II Debugging </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI HII</span></p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >Platform Build Lab</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Drivers</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UDK Debugger Tool </span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >&nbsp;</span></p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Shell </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >Driver Wizard Lab </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >&nbsp; </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.5em" >&nbsp; </span></p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >Shell Lab</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" >UEFI Driver Lab</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" ></span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.5em" ></span></p></td>
+	</tr>
+</table>
+  
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Questions]
 <br>
