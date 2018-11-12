@@ -34,17 +34,26 @@ Table of Contents and suggested course Schedule
   
 To see the Slides with links to the presentations goto https://gitpitch.com/tianocore-training/Tianocore_Training_Contents/master#/
 
+**Map** of Gitpitch presenations 
+- To get a PDF of the presenation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"
+- For Speaker notes press "S"
+- Menu "M"
+- Full Screen "F"
+- Overview "O"
+- Navigation,  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ")
 
+
+The following is a link to the cooresponding repository for each presentation
 
 |Unit 1 | Unit 2 | Unit 3 | Unit 4 |
 | ----------------- | ------------------ | -------------- | -------------- |
-| Overview UEFI / FSP Boot Flow  | EDK II Libraries and Modules and Drivers | Porting an Existing Platform w/ EDK II using Open Source example | UEFI / EDK II Network  |
-| EDK II Build Environment & Process | EDK II Platforms configuration Database (PCD) -Lab | Porting Beyond the Shell w/ EDK II | UEFI / EDK II Security |
-| EDK II Build Spec Files | UEFI Application Writers Lab | EDK II Debugging Lab | UEFI / EDK II Capsule Update |
-| Open Source UEFI Platforms | UEFI Driver Wizard Lab - Driver Model  | Source Level Debugging w/ UDK Debugger | UEFI / EDK II - HII Lab |
-| EDK II Platform Build Lab | &nbsp;  | &nbsp; | &nbsp; |
-| UEFI Shell & Edk II Build Lab | &nbsp;  | &nbsp; |&nbsp; |
-| UEFI Aware OS -UEFI Secure boot | &nbsp;  | &nbsp; |&nbsp; |
-| &nbsp; | &nbsp;  | &nbsp; |&nbsp; |
+| [Overview UEFI/ FSP Boot Flow ](https://github.com/tianocore-training/UEFI_Boot_Flow_Pres)  | [UEFI Aware OS -UEFI Secure boot](https://github.com/tianocore-training/UEFI_Aware_OS_Pres)| [Porting a  EDK II Project using Open Source example ](https://github.com/tianocore-training/EDK_II_Porting_Projects_Pres)| [UEFI / EDK II Network ](https://github.com/tianocore-training/UEFI_EDK_II_Network_Pres) |
+| [EDK II Build Environment & Process](https://github.com/tianocore-training/EDK_II_Build_Process_Pres) | [EDK II Libraries and Modules and Drivers ](https://github.com/tianocore-training/EDK_II_Modules_Libs_Drivers_Pres) | [Porting EDK II Board - Apollo Lake](https://github.com/tianocore-training/EDK_II_Porting_Board_Pres) | [UEFI / EDK II Security ](https://github.com/tianocore-training/UEFI_Platform_Security_Pres)|
+| [EDK II Build Spec Files](https://github.com/tianocore-training/EDK_II_Build_Spec_Files_Pres) | [EDK II Platforms configuration Database (PCD)](https://github.com/tianocore-training/Platform_Config_DB_PCD_Pres)| [Porting Beyond the Shell w/ EDK II](https://github.com/tianocore-training/EDK_II_Porting_Beyond_Shell_Pres)| [UEFI / EDK II Capsule Update ](https://github.com/tianocore-training/Capsule_Update_Pres)|
+| [Open Source UEFI Platforms](https://github.com/tianocore-training/OpenSource_Platforms_Pres) | Writing UEFI Applications Lab [Linux](https://github.com/tianocore-training/Writing_UEFI_App_Lab) or [Windows ](https://github.com/tianocore-training/Writing_UEFI_App_Win_Lab) | EDK II Debugging Lab [Linux](https://github.com/tianocore-training/EDK_II_Debugging_Pres_Lab) or [Windows ](https://github.com/tianocore-training/EDK_II_Debugging_Pres_Win_Lab) | [UEFI / EDK II - HII Lab ](https://github.com/tianocore-training/UEFI_HII_Overview_Pres_Lab)|
+| EDK II Platform Build Lab [Linux](https://github.com/tianocore-training/Platform_Build_Lab) or [Windows](https://github.com/tianocore-training/Platform_Build_Win_Lab) | [UEFI Driver Model  ](https://github.com/tianocore-training/UEFI_Driver_Pres) | [Source Level Debugging w/ UDK Debugger](https://github.com/tianocore-training/EDK_II_UDK_Debugger_Pres)| &nbsp; |
+| [UEFI Shell Application](https://github.com/tianocore-training/UEFI_Shell_App_Pres) | UEFI Driver Wizard Lab [Linux](https://github.com/tianocore-training/UEFI_Driver_Wizard_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Driver_Wizard_Win_Lab) | &nbsp; |&nbsp; |
+| UEFI Shell Lab [Linux](https://github.com/tianocore-training/UEFI_Shell_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Shell_Win_Lab)| UEFI Driver Porting Lab  [Linux](https://github.com/tianocore-training/UEFI_Driver_Porting_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Driver_Porting_Win_Lab) | &nbsp; |&nbsp; |
+|  &nbsp;  | &nbsp;  | &nbsp; |&nbsp; |
 
 

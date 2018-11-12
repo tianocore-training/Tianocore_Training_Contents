@@ -41,25 +41,38 @@ Note:
 #### <p align="center"<span class="gold"   >Suggested Schedule </span></p><br>
 
 The next slides will have links to the appropriate slide show in the suggested order. <br>
-- <font color="yellow">Unit 1:</font>  <span style="font-size:0.9em">Overview of EDK II, UEFI Shell Lab, and overview of UEFI aware OS</span><br>
-- <font color="yellow">Unit 2:</font>  <span style="font-size:0.9em">More details of the EDK II infrastructure and Labs with writing UEFI Applications and Drivers</span><br>
+- <font color="yellow">Unit 1:</font>  <span style="font-size:0.9em">Overview of EDK II, UEFI Shell Lab, Platform Build Lab</span><br>
+- <font color="yellow">Unit 2:</font>  <span style="font-size:0.9em">More details of the EDK II infrastructure and Labs with writing UEFI Applications, UEFI Driver Model with writing Lab</span><br>
 - <font color="yellow">Unit 3:</font>  <span style="font-size:0.9em">Porting and Debugging using a Open Source example with EDK II</span><br>
-- <font color="yellow">Unit 4:</font>  <span style="font-size:0.9em">Advanced topics for a shorter session after Units 1-3 completed</span>
+- <font color="yellow">Unit 4:</font>  <span style="font-size:0.9em">Advanced topics for a shorter session after Units 1-3 completed: UEFI Network, UEFI Platform FW security, UEFI HII overview and lab</span>
 
  
 Note:
 Unit 1
-  - Overview UEFI / FSP Boot Flow, EDK II Build Environment & Process, EDK II Build Spec Files, Open Source UEFI Platforms, EDK II Platform Build Lab, UEFI Shell & Edk II Build Lab, UEFI Aware OS -UEFI Secure boot
+  - Overview UEFI / FSP Boot Flow, EDK II Build Environment & Process, EDK II Build Spec Files, Open Source UEFI Platforms, EDK II Platform Build Lab, UEFI Shell & Edk II Build Lab, 
 Unit 2
-  - EDK II Libraries and Modules and Drivers, EDK II Platforms configuration Database (PCD),  UEFI Application Writers Lab, UEFI Driver Wizard Lab - Driver Model
+  - UEFI Aware OS -UEFI Secure boot, EDK II Libraries and Modules and Drivers, EDK II Platforms configuration Database (PCD),  UEFI Application Writers Lab, UEFI Driver Wizard Lab - Driver Model
 
 Unit 3
   - Porting w/ EDK II using Open Source example, Porting Beyond the Shell w/ EDK II,  EDK II Debugging Lab, Source Level Debugging w/ UDK Debugger
 Unit 4
   - UEFI / EDK II Network,  UEFI / EDK II Security, UEFI Capsule Update, UEFI / EDK II - HII Lab, EDK Compatibility Package
 
+---
+@title[GitPitch]
+<p align="center"<span class="gold"   >About GitPitch</span></p>
+ 
+see https://github.com/gitpitch/gitpitch/wiki 
 
-
+**Map** of Gitpitch presenations 
+- To get a PDF of the presenation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"
+- For Speaker notes press "S"
+- Menu "M"
+- Full Screen "F"
+- Overview "O"
+- Navigation,  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ")
+ 
+ 
 ---  
 @title[Schedule 01]
 
