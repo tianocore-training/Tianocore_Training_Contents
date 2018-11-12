@@ -137,7 +137,7 @@ see https://github.com/gitpitch/gitpitch/wiki
  
 ---
 @title[Lab Material]
-### <p align="center"<span class="gold"   >Lab Matrial</span></p>
+<p align="center"<span class="gold"   >Lab Material</span></p>
 The following github repositories contain the Lab Material :  
 - [Lab_Material_FW]( https://github.com/tianocore-training/Lab_Material_FW)
   - Documentation
