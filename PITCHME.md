@@ -70,7 +70,7 @@ Unit 4
 	</tr>
 	<tr>
 		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Overview</span></p></td>
-		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Aware OS - Secure boot</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Aware OS </span></p></td>
 		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >Porting Project</span></p></td>
 		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Network</span></p></td>
 	</tr>
@@ -87,7 +87,7 @@ Unit 4
 		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Capsules</span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Open Source EDK II</span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Open Source</span></p></td>
 		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Writing UEFI Apps </span></p></td>
 		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >EDK II Debugging </span></p></td>
 		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI HII</span></p></td>
