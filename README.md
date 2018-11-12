@@ -43,6 +43,7 @@ To see the Slides with links to the presentations goto https://gitpitch.com/tian
 - Navigation,  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ")
 
 
+## Schedule / outline
 The following is a link to the cooresponding repository for each presentation
 
 |Unit 1 | Unit 2 | Unit 3 | Unit 4 |
@@ -57,3 +58,18 @@ The following is a link to the cooresponding repository for each presentation
 |  &nbsp;  | &nbsp;  | &nbsp; |&nbsp; |
 
 
+
+
+## Lab Material
+The following github repositories contain the Lab Material :  
+
+- [Lab_Material_FW]( https://github.com/tianocore-training/Lab_Material_FW)
+  - FW
+     - Documentation
+     - DriverWizard
+     - edk2 (- Same as https://github.com/tianocore/edk2 )
+     - LabSampleCode
+- [PlatformBuildLab_FW](https://github.com/tianocore-training/PlatformBuildLab_FW)
+  - FW
+    - PlatformBuildLab
+      - Max (- source code for the Minnowboard Max / Turbot V.99)

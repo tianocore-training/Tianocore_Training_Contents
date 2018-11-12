@@ -135,6 +135,19 @@ see https://github.com/gitpitch/gitpitch/wiki
  @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/Capsule_Update_Pres/master#/' >UEFI Capsule Update </a> </span> <br>
  @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/UEFI_HII_Overview_Pres_Lab/master#/' >UEFI / EDK II - HII Overview Presenation and Lab  </a> </span> <br>
  
+---
+@title[Lab Material]
+### <p align="center"<span class="gold"   >Lab Matrial</span></p>
+The following github repositories contain the Lab Material :  
+- [Lab_Material_FW]( https://github.com/tianocore-training/Lab_Material_FW)
+  - Documentation
+  - DriverWizard
+  - edk2 (- Same as https://github.com/tianocore/edk2 )
+  - LabSampleCode
+- [PlatformBuildLab_FW](https://github.com/tianocore-training/PlatformBuildLab_FW)
+  - PlatformBuildLab
+    - Max (- source code for the Minnowboard Max / Turbot V.99)
+ 
 ---  
 @title[Schedule 2]
 #### <p align="center"<span class="gold"   >Suggested Schedule Table</span></p>
