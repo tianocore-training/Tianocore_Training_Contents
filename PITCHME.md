@@ -69,44 +69,44 @@ Unit 4
 		<td bgcolor="#0071c5"><span style="font-size:0.75em" ><b>Unit 4</b></span></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >Overview</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI OS</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Overview</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Aware OS - Secure boot</span></td>
 		<td bgcolor="#121212"><span style="font-size:0.56em" >Porting Project</span></td>
 		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Network</span></td>
 	</tr>
 	<tr>
 		<td bgcolor="#323232"><span style="font-size:0.56em" >Build Env </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >Libs, Modules Drivers </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >Libs, Modules, Drivers </span></td>
 		<td bgcolor="#323232"><span style="font-size:0.56em" >Porting Board </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >UEFI FS Security </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >UEFI FW Security </span></td>
 	</tr>
 	<tr>
 		<td bgcolor="#121212"><span style="font-size:0.56em" >Build Spec Files</span></td>
 		<td bgcolor="#121212"><span style="font-size:0.56em" >PCDs</span></td>
 		<td bgcolor="#121212"><span style="font-size:0.56em" >Porting Beyond Shell</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >Capsules</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Capsules</span></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >Open Source </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >Writing Apps </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >Open Source EDK II</span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >Writing UEFI Apps </span></td>
 		<td bgcolor="#323232"><span style="font-size:0.56em" >EDK II Debugging </span></td>
 		<td bgcolor="#323232"><span style="font-size:0.56em" >UEFI HII</span></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >Platform Build</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >Platform Build Lab</span></td>
 		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Drivers</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UDK Debugger </span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >UDK Debugger Tool </span></td>
 		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
 	</tr>
 	<tr>
 		<td bgcolor="#323232"><span style="font-size:0.56em" >UEFI Shell </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >Wizard Lab </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >Driver Wizard Lab </span></td>
 		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
 		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
 	</tr>
 	<tr>
 		<td bgcolor="#121212"><span style="font-size:0.56em" >Shell Lab</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >Driver Lab</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Driver Lab</span></td>
 		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></td>
 		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></td>
 	</tr>
