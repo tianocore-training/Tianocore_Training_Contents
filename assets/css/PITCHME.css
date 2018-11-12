@@ -23,6 +23,7 @@ html:-moz-full-screen-ancestor {
   color: #BF5122;
     text-align: center; 
   text-align: top;
+    font-weight: bold;
 }
 
 .gold {
@@ -108,6 +109,35 @@ span.aside {
   display: block;
 }
 
+
+
+.reveal div.left-2 {
+    float: left;
+    z-index: -10;
+    width: 20%;
+}
+
+.reveal div.right-2 {
+    float: right;
+    z-index: -10;
+    width: 80%;
+}
+
+
+.reveal div.left-1 {
+    float: left;
+    z-index: -10;
+    width: 30%;
+}
+
+.reveal div.right-1 {
+    float: right;
+    z-index: -10;
+    width: 70%;
+}
+
+
+
 .reveal div.left {
     float: left;
     z-index: -10;
@@ -119,6 +149,33 @@ span.aside {
     z-index: -10;
     width: 55%;
 }
+
+
+.reveal div.left1 {
+    float: left;
+    z-index: -10;
+    width: 55%;
+}
+
+.reveal div.right1 {
+    float: right;
+    z-index: -10;
+    width: 45%;
+}
+
+
+.reveal div.left2 {
+    float: left;
+    z-index: -10;
+    width: 70%;
+}
+
+.reveal div.right2 {
+    float: right;
+    z-index: -10;
+    width: 30%;
+}
+
 
 .reveal a.pro-link {
     font-size: 0.5em;
@@ -197,6 +254,18 @@ span.aside {
 }
 
 
+.gp-bullet-black { 
+  color:#000000;
+  margin-left: 10px; 
+}
+
+
+.gp-bullet-white{ 
+  color:#ffffff;
+  margin-left: 10px; 
+}
+
+
 h6 {
     font-weight: bold;
     font-size: 50%;
@@ -233,6 +302,8 @@ h6 {
   color: #300a24;
 }
 
+table#recTable{width:100%; border:1px solid gray;}
+#recTable tr td {height:0.2px; border:1px solid gray;}
 
 
 

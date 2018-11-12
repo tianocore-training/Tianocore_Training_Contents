@@ -38,7 +38,7 @@ Note:
 
 ---  
 @title[Schedule]
-#### <p align="center"<span class="gold"   >Suggested Schedule </span></p><br>
+#### <p align="center"<span class="gold"   >Suggested Schedule </span></p>
 
 The next slides will have links to the appropriate slide show in the suggested order. <br>
 - <font color="yellow">Unit 1:</font>  <span style="font-size:0.9em">Overview of EDK II, UEFI Shell Lab, Platform Build Lab</span><br>
@@ -58,6 +58,60 @@ Unit 3
 Unit 4
   - UEFI / EDK II Network,  UEFI / EDK II Security, UEFI Capsule Update, UEFI / EDK II - HII Lab, EDK Compatibility Package
 
+---  
+@title[Schedule 2]
+#### <p align="center"<span class="gold"   >Suggested Schedule </span></p>
+<table id="recTable">
+	<tr>
+		<td bgcolor="#0071c5"><span style="font-size:0.75em" ><b>Unit 1</b></span></td>
+		<td bgcolor="#0071c5"><span style="font-size:0.75em" ><b>Unit 2</b></span></td>
+		<td bgcolor="#0071c5"><span style="font-size:0.75em" ><b>Unit 3</b></span></td>
+		<td bgcolor="#0071c5"><span style="font-size:0.75em" ><b>Unit 4</b></span></td>
+	</tr>
+	<tr>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+	</tr>
+	<tr>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+	</tr>
+	<tr>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+	</tr>
+	<tr>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+	</tr>
+	<tr>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+	</tr>
+	<tr>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+	</tr>
+	<tr>
+		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></td>
+	</tr>
+</table>
+  
 ---
 @title[GitPitch]
 <p align="center"<span class="gold"   >About GitPitch</span></p>
