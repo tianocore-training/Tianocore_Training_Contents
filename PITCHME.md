@@ -63,52 +63,52 @@ Unit 4
 #### <p align="center"<span class="gold"   >Suggested Schedule </span></p>
 <table id="recTable">
 	<tr>
-		<td bgcolor="#0071c5"><span style="font-size:0.75em" ><b>Unit 1</b></span></td>
-		<td bgcolor="#0071c5"><span style="font-size:0.75em" ><b>Unit 2</b></span></td>
-		<td bgcolor="#0071c5"><span style="font-size:0.75em" ><b>Unit 3</b></span></td>
-		<td bgcolor="#0071c5"><span style="font-size:0.75em" ><b>Unit 4</b></span></td>
+		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 1</b></span></p></td>
+		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 2</b></span></p></td>
+		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 3</b></span></p></td>
+		<td bgcolor="#0071c5"><p style="line-height:40%"><span style="font-size:0.75em" ><b>Unit 4</b></span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Overview</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Aware OS - Secure boot</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >Porting Project</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Network</span></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Overview</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Aware OS - Secure boot</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >Porting Project</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Network</span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >Build Env </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >Libs, Modules, Drivers </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >Porting Board </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >UEFI FW Security </span></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Build Env </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Libs, Modules, Drivers </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Porting Board </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI FW Security </span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >Build Spec Files</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >PCDs</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >Porting Beyond Shell</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Capsules</span></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >Build Spec Files</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >PCDs</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >Porting Beyond Shell</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Capsules</span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >Open Source EDK II</span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >Writing UEFI Apps </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >EDK II Debugging </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >UEFI HII</span></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Open Source EDK II</span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Writing UEFI Apps </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >EDK II Debugging </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI HII</span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >Platform Build Lab</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Drivers</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UDK Debugger Tool </span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >Platform Build Lab</span></p></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Drivers</span></p></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >UDK Debugger Tool </span></p></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >UEFI Shell </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >Driver Wizard Lab </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >UEFI Shell </span></p></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >Driver Wizard Lab </span></p></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></p></td>
+		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >Shell Lab</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Driver Lab</span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >Shell Lab</span></p></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Driver Lab</span></p></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></p></td>
+		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></p></td>
 	</tr>
 </table>
   
