@@ -93,22 +93,22 @@ Unit 4
 		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI HII</span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >Platform Build Lab</span></p></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Drivers</span></p></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UDK Debugger Tool </span></p></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >&nbsp;</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >Platform Build Lab</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Drivers</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UDK Debugger Tool </span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >&nbsp;</span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >UEFI Shell </span></p></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >Driver Wizard Lab </span></p></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></p></td>
-		<td bgcolor="#323232"><span style="font-size:0.56em" >&nbsp; </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Shell </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >Driver Wizard Lab </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >&nbsp; </span></p></td>
+		<td bgcolor="#323232"><p style="line-height:40%"><span style="font-size:0.56em" >&nbsp; </span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >Shell Lab</span></p></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" >UEFI Driver Lab</span></p></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></p></td>
-		<td bgcolor="#121212"><span style="font-size:0.56em" ></span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >Shell Lab</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" >UEFI Driver Lab</span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" ></span></p></td>
+		<td bgcolor="#121212"><p style="line-height:40%"><span style="font-size:0.56em" ></span></p></td>
 	</tr>
 </table>
   
