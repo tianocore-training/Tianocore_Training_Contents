@@ -30,6 +30,7 @@ html:-moz-full-screen-ancestor {
   color: #e49436;
     text-align: center; 
   text-align: top;
+     font-weight: bold;
 }
 
 .gray {
@@ -223,6 +224,21 @@ span.aside {
   margin-left: 10px; 
 }
 
+
+.gp-bullet-orange { 
+  color:#d85821;
+  margin-left: 10px; 
+}
+  
+.gp-bullet-blue { 
+  color:#4487f2;
+  margin-left: 10px; 
+}  
+  
+.gp-bullet-purple { 
+  color:#643885;
+  margin-left: 10px; 
+}  
 .gp-bullet-cyan { 
   color:#00FFFF;
   margin-left: 10px; 
@@ -306,8 +322,50 @@ table#recTable{width:100%; border:1px solid gray;}
 #recTable tr td {height:0.012px; border:1px solid gray;}
 
 
+/* the following are for Back ground colors for using the boxes widget from gitpitch */
 
+.bg-cyan {   background: #00FFFF !important; }
 
+/* #643885 puple gp */
+.bg-purple-pp { background: #7030a0 !important; }
+.bg-magenta { background: #ff00ff !important; }
+.bg-red-pp { background: #a80000 !important; }
+/*#e71e60 pink gp */
 
+/*#f26225 orange gp */
+.bg-brick { background: #BF5122 !important; }
+.bg-lt-orange { background: #e49436 !important; }
+.bg-gold2 { background: #FFC000 !important; }
+.bg-lt-gold { background: #ffda00 !important; }
+.bg-yellow-pp { background: #ffff00 !important; }
+.bg-cream  { background: #FFFF99 !important; }
 
+/* yellow gp # 245 219 46  #f5db25
+*/
+
+/*#4487f2 blue gp
+*/
+.bg-lt-blue-pp { background: #00b0f0 !important; }
+.bg-blue-pp { background: #0070C0 !important; }
+.bg-royal { background: #0558ff !important; }
+.bg-navy { background: #002060 !important; }
+
+/* Green gp #8eA3b3
+*/
+.bg-green-pp { background: #92d050 !important; }
+.bg-green2   { background: #00b050 !important; }
+
+.bg-white { background: #ffffff!important; }
+
+.bg-grey-100 { background: #FFFFFF!important; }
+.bg-grey-90  { background: #F2f2f2!important; }
+.bg-grey-85  { background: #d9d9d9!important; }
+.bg-grey-75  { background: #bfbfbf!important; }
+.bg-grey-65  { background: #a6a6a6!important; }
+.bg-grey-50  { background: #7f7f7f!important; }
+.bg-grey-35  { background: #595959!important; }
+.bg-grey-25  { background: #404040!important; }
+.bg-grey-15  { background: #262626!important; }
+.bg-grey-05  { background: #0d0d0d!important; }
+.bg-grey-00  { background: #000000!important; }
 
