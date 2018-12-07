@@ -30,21 +30,28 @@
 -->
 
 # Tianocore_Training_Contents
-Table of Contents and suggested course Schedule
+Table of Contents and suggested course Schedule using [GitPitch]( https://gitpitch.com/docs/) on-line slideshow viewer.
   
 To see the Slides with links to the presentations goto https://gitpitch.com/tianocore-training/Tianocore_Training_Contents/master#/
 
-**Map** of Gitpitch presenations 
-- To get a PDF of the presenation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"
-- For Speaker notes press "S"
-- Menu "M"
-- Full Screen "F"
-- Overview "O"
+---
+### GitPitch Key press controls
+
+GitPitch slideshow presentations offer numerous keyboard controls and shortcuts to help presentation authors and their audiences to navigate and interact with slideshow content.
+
+-  Press **F** for full screen
+-  Press **O** for Overview
+-  Press **B** for Blackout 
+-  Press **M** for menu
+-  Press **?** for help
+-  Press **S** for Speaker notes
+- To get a PDF of the presentation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"
 - Navigation,  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ")
 
+---
 
 ## Schedule / outline
-The following is a link to the cooresponding repository for each presentation
+The following is a link to the corresponding repository for each presentation.  Each repository has a link to the GitPitch slideshow.
 
 |Unit 1 | Unit 2 | Unit 3 | Unit 4 |
 | ----------------- | ------------------ | -------------- | -------------- |
@@ -60,7 +67,7 @@ The following is a link to the cooresponding repository for each presentation
 
 
 
-## Lab Material
+## Lab Training Material
 The following github repositories contain the Lab Material :  
 
 - [Lab_Material_FW]( https://github.com/tianocore-training/Lab_Material_FW)
@@ -73,3 +80,22 @@ The following github repositories contain the Lab Material :
   - FW
     - PlatformBuildLab
       - Max (- source code for the Minnowboard Max / Turbot V.99)
+
+	  
+	  
+	  
+## On-line Self Paced web-based training:
+See full description at : https://github.com/tianocore/tianocore.github.io/wiki/UEFI-EDKII-Learning-Dev 
+
+|Download |	Description|
+| ----------------- | ------------------ |
+|[Zip file** ](https://github.com/tianocore-training/Lesson-0/archive/master.zip) | Lesson 0: Defining Specifications' Role in Firmware |
+|[Zip File** ](https://github.com/tianocore-training/Lesson-1/archive/master.zip) | Lesson 1: Course Introduction and Pre-EFI (PEI) and Security (SEC) Phases |
+|[Zip File**](https://github.com/tianocore-training/Lesson-2/archive/master.zip) | Lesson 2: Driver Execution Environment (DXE) |
+|[Zip File**](https://github.com/tianocore-training/Lesson-3/archive/master.zip) | Lesson 3: UEFI Drivers |
+|[Zip File**](https://github.com/tianocore-training/Lesson-4/archive/master.zip) |Lesson 4: Firmware and Data Storage|
+|[Zip File**](https://github.com/tianocore-training/Lesson-5/archive/master.zip) |Lesson 5: Boot Device Selection (BDS) and Human Interface Infrastructure (HII)|
+
+
+## For questions 
+[email laurie0131](mailto:laurie.jarlstrom@intel.com)
