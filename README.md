@@ -79,7 +79,7 @@ The following github repositories contain the Lab Material :
 - [PlatformBuildLab_FW](https://github.com/tianocore-training/PlatformBuildLab_FW)
   - FW
     - PlatformBuildLab
-      - Max (- source code for the Minnowboard Max / Turbot V.99)
+      - Max (- source code for the Minnowboard Max / Turbot V 1.00)
 
 	  
 	  
