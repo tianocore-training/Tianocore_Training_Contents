@@ -87,15 +87,12 @@ Unit 4
 @fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/UEFI_Boot_Flow_Pres/master#/' >Overview UEFI Boot Flow </a> </span><br>
 @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/EDK_II_Build_Process_Pres/master#/' >EDK II Build Process</a> and <a href='https://gitpitch.com/tianocore-training/EDK_II_Build_Spec_Files_Pres/master#/' >Build Spec Files </a> </span><br>
 @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/OpenSource_Platforms_Pres/master#/' >EDK II Open Source Platforms </a> </span><br>
-@fa[certificate gp-bullet-ltgreen]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/'>EDK II Platform Build Labs @fa[linux gp-bullet-gold] </a>
+@fa[certificate gp-bullet-ltgreen]&nbsp;&nbsp;<span style="font-size:0.8em">EDK II Platform Build Labs <a href='https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/'>@fa[linux gp-bullet-gold]</a>
 (<a href='https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/2'>Ovmf </a>| <a href='https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/18'>Max HW setup</a> | <a href='https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/26'>Max </a>)  </span><br>
-@fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.8em">OR <a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/'>EDK II Platform Build @fa[windows gp-bullet-cyan] </a>
+<span style="font-size:0.8em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@color[yellow](<i>OR</i>) EDK II Platform Build Labs <a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/'>@fa[windows gp-bullet-cyan]</a>
 (<a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/9'>Nt32 </a>| <a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/22'>Max HW setup</a> | <a href='https://gitpitch.com/tianocore-training/Platform_Build_Win_Lab/master#/31'>Max </a>)  </span><br>
+@fa[certificate gp-bullet-blue]&nbsp;&nbsp;<span style="font-size:0.8em">Platform Build Lab Apollo Lake (UP<sup>2</sup> board) <a href='https://gitpitch.com/tianocore-training/Platform_Build_Lab_UP2_Linux/master#/' >@fa[linux gp-bullet-gold]</a> Or <a href="https://gitpitch.com/tianocore-training/Platform_Build_Lab_UP2_Win/master#/"> @fa[windows gp-bullet-cyan]</a> </span><br>
 @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/UEFI_Shell_App_Pres/master#/' >UEFI Shell Overview</a> & <a href='https://gitpitch.com/tianocore-training/UEFI_Shell_Lab/master#/' >@fa[linux gp-bullet-gold] Shell Lab </a> Or <a href="https://gitpitch.com/tianocore-training/UEFI_Shell_Win_Lab/master#/"> @fa[windows gp-bullet-cyan]Nt32 Shell Lab</a> </span><br>
-@fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/' >UEFI Aware OS</a> , 
-<a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/14'>Secure Boot</a> , 
-<a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/22'>Smm/MMI</a> , 
-<a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/29'>coreboot</a> </span><br>
 
 
 ---  
@@ -105,6 +102,10 @@ Unit 4
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
+@fa[certificate gp-bullet-blue]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/' >UEFI Aware OS</a> , 
+<a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/14'>Secure Boot</a> , 
+<a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/22'>Smm/MMI</a> , 
+<a href='https://gitpitch.com/tianocore-training/UEFI_Aware_OS_Pres/master#/29'>coreboot</a> </span><br>
 @fa[certificate gp-bullet-green]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/EDK_II_Modules_Libs_Drivers_Pres/master#/' >EDK II Libraries and Modules and Drivers </a> </span><br>
 @fa[certificate gp-bullet-cyan]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/Platform_Config_DB_PCD_Pres/master#/' >EDK II Platforms Configuration Database (PCD)  </a> </span><br>
 @fa[certificate gp-bullet-yellow]<span style="font-size:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/Writing_UEFI_App_Lab/master#/' >UEFI Application Writers LAB-@fa[linux gp-bullet-gold] </a> &nbsp;&nbsp;OR&nbsp; <a href="https://gitpitch.com/tianocore-training/Writing_UEFI_App_Win_Lab/master#/">@fa[windows gp-bullet-cyan]</a> </span> <br>

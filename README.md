@@ -60,8 +60,9 @@ The following is a link to the corresponding repository for each presentation.  
 | [EDK II Build Spec Files](https://github.com/tianocore-training/EDK_II_Build_Spec_Files_Pres) | [EDK II Platforms configuration Database (PCD)](https://github.com/tianocore-training/Platform_Config_DB_PCD_Pres)| [Porting Beyond the Shell w/ EDK II](https://github.com/tianocore-training/EDK_II_Porting_Beyond_Shell_Pres)| [UEFI / EDK II Capsule Update ](https://github.com/tianocore-training/Capsule_Update_Pres)|
 | [Open Source UEFI Platforms](https://github.com/tianocore-training/OpenSource_Platforms_Pres) | Writing UEFI Applications Lab [Linux](https://github.com/tianocore-training/Writing_UEFI_App_Lab) or [Windows ](https://github.com/tianocore-training/Writing_UEFI_App_Win_Lab) | EDK II Debugging Lab [Linux](https://github.com/tianocore-training/EDK_II_Debugging_Pres_Lab) or [Windows ](https://github.com/tianocore-training/EDK_II_Debugging_Pres_Win_Lab) | [UEFI / EDK II - HII Lab ](https://github.com/tianocore-training/UEFI_HII_Overview_Pres_Lab)|
 | EDK II Platform Build Lab [Linux](https://github.com/tianocore-training/Platform_Build_Lab) or [Windows](https://github.com/tianocore-training/Platform_Build_Win_Lab) | [UEFI Driver Model  ](https://github.com/tianocore-training/UEFI_Driver_Pres) | [Source Level Debugging w/ UDK Debugger](https://github.com/tianocore-training/EDK_II_UDK_Debugger_Pres)| &nbsp; |
-| [UEFI Shell Application](https://github.com/tianocore-training/UEFI_Shell_App_Pres) | UEFI Driver Wizard Lab [Linux](https://github.com/tianocore-training/UEFI_Driver_Wizard_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Driver_Wizard_Win_Lab) | &nbsp; |&nbsp; |
-| UEFI Shell Lab [Linux](https://github.com/tianocore-training/UEFI_Shell_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Shell_Win_Lab)| UEFI Driver Porting Lab  [Linux](https://github.com/tianocore-training/UEFI_Driver_Porting_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Driver_Porting_Win_Lab) | &nbsp; |&nbsp; |
+| Platform Build Lab Apollo Lake UP2 [Linux](https://github.com/tianocore-training/Platform_Build_Lab_UP2_Linux) or [Windows](https://github.com/tianocore-training/Platform_Build_Lab_UP2_WIN) | UEFI Driver Wizard Lab [Linux](https://github.com/tianocore-training/UEFI_Driver_Wizard_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Driver_Wizard_Win_Lab) | &nbsp; |&nbsp; |
+| [UEFI Shell Application](https://github.com/tianocore-training/UEFI_Shell_App_Pres) | UEFI Driver Porting Lab  [Linux](https://github.com/tianocore-training/UEFI_Driver_Porting_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Driver_Porting_Win_Lab) | &nbsp; |&nbsp; |
+| UEFI Shell Lab [Linux](https://github.com/tianocore-training/UEFI_Shell_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Shell_Win_Lab) | &nbsp;  | &nbsp; |&nbsp; |
 |  &nbsp;  | &nbsp;  | &nbsp; |&nbsp; |
 
 
@@ -81,6 +82,10 @@ The following github repositories contain the Lab Material :
     - PlatformBuildLab
       - Max (- source code for the Minnowboard Max / Turbot V 1.00)
 
+- [PlatformBuildLab_UP2 FW](https://github.com/tianocore-training/PlatformBuildLab_UP2_FW)
+  - FW
+    - PlatformBuildLab
+      - MV3 (- source code for the Apollo Lake build support for UP Squared Board)
 	  
 	  
 	  

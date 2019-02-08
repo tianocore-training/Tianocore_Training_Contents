@@ -178,6 +178,8 @@ span.aside {
 }
 
 
+
+
 .reveal a.pro-link {
     font-size: 0.5em;
 }
@@ -282,6 +284,12 @@ span.aside {
 }
 
 
+.gp-bullet-red{ 
+  color:#A20000;
+  margin-left: 10px; 
+}
+
+
 h6 {
     font-weight: bold;
     font-size: 50%;
@@ -304,6 +312,9 @@ h6 {
 .lt_green {
   color: #87E2A9;
 }
+.lt_green2 {
+  color: #A8ff60;
+}
 .green {
   color:  #00CC99;
 }
@@ -318,9 +329,22 @@ h6 {
   color: #300a24;
 }
 
-table#recTable{width:100%; border:1px solid gray;}
-#recTable tr td {height:0.012px; border:1px solid gray;}
+.ubuntu{
+  color: #64205d;
+}
 
+.lt-blue-pp { 
+  color: #00b0f0;
+ }
+ 
+table#recTable-90{width:90%; border:1px solid #0558ff;}
+#recTable-90 tr td {height:0.02px; border:1px solid #0558ff;}
+
+table#recTable{width:100%; border:1px solid gray;}
+#recTable tr td {height:0.2px; border:1px solid gray;}
+
+table#recTable2{width:110%; border:1px solid gray;}
+#recTable2 tr td {height:0.2px; border:1px solid gray;}
 
 /* the following are for Back ground colors for using the boxes widget from gitpitch */
 
@@ -332,6 +356,8 @@ table#recTable{width:100%; border:1px solid gray;}
 .bg-red-pp { background: #a80000 !important; }
 /*#e71e60 pink gp */
 
+.bg-purple-pp-trans { background:rgba(112,48,160,0.8)!important; }
+
 /*#f26225 orange gp */
 .bg-brick { background: #BF5122 !important; }
 .bg-lt-orange { background: #e49436 !important; }
@@ -339,16 +365,24 @@ table#recTable{width:100%; border:1px solid gray;}
 .bg-lt-gold { background: #ffda00 !important; }
 .bg-yellow-pp { background: #ffff00 !important; }
 .bg-cream  { background: #FFFF99 !important; }
+.bg-cream2  { background: #FFF5db !important; }
+
+.bg-gold2-trans { background:rgba(255,192,00,0.8)!important; }
+.bg-lt-orange-trans { background:rgba(228,148,54,0.8)!important; }
+.bg-brick-trans { background:rgba(191,81,34,0.95)!important; }
 
 /* yellow gp # 245 219 46  #f5db25
 */
 
 /*#4487f2 blue gp
 */
+.bg-light-lt-blue-pp { background: #75deFF !important; }
 .bg-lt-blue-pp { background: #00b0f0 !important; }
 .bg-blue-pp { background: #0070C0 !important; }
 .bg-royal { background: #0558ff !important; }
 .bg-navy { background: #002060 !important; }
+
+.bg-blue-trans { background:rgba(68,135,242,0.9) !important; }
 
 /* Green gp #8eA3b3
 */
@@ -369,3 +403,17 @@ table#recTable{width:100%; border:1px solid gray;}
 .bg-grey-05  { background: #0d0d0d!important; }
 .bg-grey-00  { background: #000000!important; }
 
+.bg-u-term  { background: #300A24!important; }
+.bg-ubuntu  { background: #64205d!important; }
+
+
+.my-box-pad #boxed-text{ 
+  padding-top: 0.05em;
+  padding-bottom: 0.05em;
+}
+
+
+.my-box-pad2 #boxed-text{ 
+  padding-top: 0.001em;
+  padding-bottom: 0.05em;
+}
