@@ -61,21 +61,6 @@ Unit 4
   - UEFI / EDK II Network,  UEFI / EDK II Security, UEFI Capsule Update, UEFI / EDK II - HII Lab, EDK Compatibility Package
 
 
----
-@title[GitPitch]
-<p align="center"<span class="gold"   ><b>About GitPitch</b></span></p>
-<p style="line-height:70%">The Markdown Presentation Service on Git <span style="font-size:0.7em">see documentation at: https://gitpitch.com/docs/ </span></p>
-<span style="font-size:0.9em">GitPitch Key press controls:</span>
-<ul style="line-height:0.8;">
- <li><span style="font-size:0.7em">Press<font color="yellow"> **F** </font>for full screen</span></li>
- <li><span style="font-size:0.7em">Press<font color="yellow"> **O** </font>for Overview</span></li>
- <li><span style="font-size:0.7em">Press<font color="yellow"> **B** </font>for Blackout </span></li>
- <li><span style="font-size:0.7em">Press<font color="yellow"> **M** </font>for menu</span></li>
- <li><span style="font-size:0.7em">Press<font color="yellow"> **?** </font>for help</span></li>
- <li><span style="font-size:0.7em">Press<font color="yellow"> **S** </font>for Speaker notes</span></li>
- <li><span style="font-size:0.7em">To get a <font color="yellow"> PDF </font>of the presentation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"</span></li>
- <li><span style="font-size:0.7em"><font color="yellow">Navigation</font>  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ") see <a href="https://gitpitch.com/docs/foundation-features/keyboard-controls/"> full list</a> </span></li>
-</ul> 
  
 ---  
 @title[Schedule 01]
@@ -155,11 +140,34 @@ Unit 4
  <ul style="list-style-type:disc" style="line-height:0.8;">
   <li> <span style="font-size:0.7em">PlatformBuildLab</span></li>
    <ul style="list-style-type:disc" style="line-height:0.8;">
-     <li><span style="font-size:0.7em">Max (- source code for the Minnowboard Max / Turbot V.99) </span></li>
+     <li><span style="font-size:0.7em">Max (- source code for the Minnowboard Max / Turbot V 1.00) </span></li>
+	</ul> 
+  </ul>
+<li><span style="font-size:0.7em"><a href="https://github.com/tianocore-training/PlatformBuildLab_UP2_FW">PlatformBuildLab_UP2_FW</a></span></li>
+ <ul style="list-style-type:disc" style="line-height:0.8;">
+  <li> <span style="font-size:0.7em">PlatformBuildLab</span></li>
+   <ul style="list-style-type:disc" style="line-height:0.8;">
+     <li><span style="font-size:0.7em">MV3 (- source code for - Apollo Lake (Broxton - UP<sup>2</sup> board)) </span></li>
 	</ul> 
   </ul>
 </ul>
  
+ 
+---  
+@title[GitPitch]
+<p align="center"<span class="gold"   ><b>About GitPitch</b></span></p>
+<p style="line-height:70%">The Markdown Presentation Service on Git <span style="font-size:0.7em">see documentation at: https://gitpitch.com/docs/ </span></p>
+<span style="font-size:0.9em">GitPitch Key press controls:</span>
+<ul style="line-height:0.8;">
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **F** </font>for full screen</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **O** </font>for Overview</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **B** </font>for Blackout </span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **M** </font>for menu</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **?** </font>for help</span></li>
+ <li><span style="font-size:0.7em">Press<font color="yellow"> **S** </font>for Speaker notes</span></li>
+ <li><span style="font-size:0.7em">To get a <font color="yellow"> PDF </font>of the presentation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"</span></li>
+ <li><span style="font-size:0.7em"><font color="yellow">Navigation</font>  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ") see <a href="https://gitpitch.com/docs/foundation-features/keyboard-controls/"> full list</a> </span></li>
+</ul> 
  
 ---  
 @title[Schedule 2]
@@ -272,10 +280,143 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 
 
 ---?image=assets/images/binary-strings-black2.jpg
-@title[UEFI Boot Flow Section]
+@title[Section divider ]
 <br><br><br><br><br>
 ## <span class="gold"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section Divider example</span>
 <span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is an example for a section divider</span>
+
+---
+@title[Colors 01]
+<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span><br>
+<span style="font-size:0.6em">Some example colors for boxes and text defined in `patchme.css`</span></p>
+
+@snap[north-west span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">Reds -purples</span>
+@box[bg-magenta text-white rounded my-box-pad2  ](<p style="line-height:60%">magenta <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-pink text-white rounded my-box-pad2  ](<p style="line-height:60%">pink <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-red-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">red-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-purple text-white rounded my-box-pad2  ](<p style="line-height:60%">purple <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-purple-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">purple-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
+
+
+@snap[north span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">Oranges</span>
+@box[bg-brick text-white rounded my-box-pad2  ](<p style="line-height:60%">brick <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-orange text-white rounded my-box-pad2  ](<p style="line-height:60%">orange <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-lt-orange text-white rounded my-box-pad2  ](<p style="line-height:60%">lt-orange <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-gold2 text-white rounded my-box-pad2  ](<p style="line-height:60%">gold2 <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-lt-gold text-white rounded my-box-pad2  ](<p style="line-height:60%">lt-gold <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
+
+@snap[north-east span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">yellows</span>
+@box[bg-yellow-pp text-black rounded my-box-pad2  ](<p style="line-height:60%">yellow-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-yellow text-black rounded my-box-pad2  ](<p style="line-height:60%">yellow <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-cream text-black rounded my-box-pad2  ](<p style="line-height:60%">cream <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-cream2 text-black rounded my-box-pad2  ](<p style="line-height:60%">cream2 <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-white text-black rounded my-box-pad2  ](<p style="line-height:60%">white <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
++++
+@title[Colors 02]
+<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span> - <span style="font-size:0.6em">Continued</span></p>
+
+@snap[north-west span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">blues</span>
+@box[bg-light-lt-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">light-lt-blue-pp <br>&nbsp;</span></p>)
+@box[bg-lt-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">lt-blue-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-blue text-white rounded my-box-pad2  ](<p style="line-height:60%">blue <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">blue-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-royal text-white rounded my-box-pad2  ](<p style="line-height:60%">royal <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
+
+
+@snap[north span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">blues - greens</span>
+@box[bg-navy text-white rounded my-box-pad2  ](<p style="line-height:60%">navy <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-cyan text-white rounded my-box-pad2  ](<p style="line-height:60%">cyan <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-green text-white rounded my-box-pad2  ](<p style="line-height:60%">green <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-green-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">green-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-green2 text-white rounded my-box-pad2  ](<p style="line-height:60%">green2 <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
+
+@snap[north-east span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">other colors</span>
+@box[bg-u-term text-white rounded my-box-pad2  ](<p style="line-height:60%">u-term <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-ubuntu text-white rounded my-box-pad2  ](<p style="line-height:60%">ubuntu <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@box[bg-black text-white rounded my-box-pad2  ](<p style="line-height:60%">black <span style="font-size:0.9em"><br>&nbsp;</span></p>)
+@snapend
+
+
++++
+@title[Colors 03]
+<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span> - <span style="font-size:0.6em">Greys - Grays</span></p>
+
+@snap[north-west span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">Dark Grey</span>
+@box[bg-grey-00 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">grey-00 <br>&nbsp;</span></p>)
+@box[bg-grey-05 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-05<br>&nbsp;</span></p>)
+@box[bg-grey-15 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-15<br>&nbsp;</span></p>)
+@box[bg-grey-25 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-25<br>&nbsp;</span></p>)
+@box[bg-grey-35 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-35<br>&nbsp;</span></p>)
+@snapend
+
+
+@snap[north span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">Light Grey</span>
+@box[bg-grey-50 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">grey-50 <br>&nbsp;</span></p>)
+@box[bg-grey-65 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-65<br>&nbsp;</span></p>)
+@box[bg-grey-75 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-75<br>&nbsp;</span></p>)
+@box[bg-grey-85 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-85<br>&nbsp;</span></p>)
+@box[bg-grey-90 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-90<br>&nbsp;</span></p>)
+@snapend
+
+
+@snap[north-east span-25 ]
+<br>
+<br>
+<span style="font-size:0.9em">white/black</span>
+@box[bg-black text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">black grey-00<br>&nbsp;</span></p>)
+@box[bg-white text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">white grey-100<br>&nbsp;</span></p>)
+@snapend
+---
+@title[Colors - text]
+<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span><br>
+<span style="font-size:0.6em">Some example colors for  text defined in `patchme.css`</span></p>
+<p style="line-height:80%" ><span style="font-size:0.85em">
+@color[ yellow]( example color: yellow)<br>
+@color[#00FFFF]( example color: cyan)<br>
+@color[#87E2A9 ]( example color: lt_green )<br>
+@color[#A8ff60 ]( example color: lt_green2)<br>
+@color[#FFC000 ]( example color: gold2 )<br>
+@color[#BF5122 ]( example color: brick - hyper link )<br>
+@color[#e49436 ]( example color: gold - Slide Titles)<br>
+@color[gray ]( example color: gray)<br>
+@color[black ]( example color: black)<br>
+@color[#A20000]( example color: red)<br>
+@color[#ffffff]( white - default)
+</span></p>
 
   
 ---  
