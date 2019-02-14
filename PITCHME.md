@@ -236,13 +236,13 @@ Unit 4
 <br>
 <br>
 <br>
-<p align="center"><span style="font-size:0.9em">Return to Training Table of contents for next presentation <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">link</a></span></p>
+<p align="center"><span style="font-size:0.9em">Return to Training Table of contents for next presentation <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline">link</a></span></p>
 
 @snap[north span-30 ]
 <br>
 <br>
 <br>
-<a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">
+<a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline">
 ![trainingLogo](/assets/images/returnTrainingLogo.png)</a>
 @snapend
 
@@ -287,162 +287,3 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 
 ```
 
----
-@title[Backup]
-<BR>
-<BR>
-<BR>
-
-##### Backup
-
-
----?image=assets/images/binary-strings-black2.jpg
-@title[Section divider ]
-<br><br><br><br><br>
-## <span class="gold"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section Divider example</span>
-<span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is an example for a section divider</span>
-
----
-@title[Colors 01]
-<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span><br>
-<span style="font-size:0.6em">Some example colors for boxes and text defined in `patchme.css`</span></p>
-
-@snap[north-west span-25 ]
-<br>
-<br>
-<span style="font-size:0.9em">Reds -purples</span>
-@box[bg-magenta text-white rounded my-box-pad2  ](<p style="line-height:60%">magenta <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-pink text-white rounded my-box-pad2  ](<p style="line-height:60%">pink <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-red-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">red-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-purple text-white rounded my-box-pad2  ](<p style="line-height:60%">purple <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-purple-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">purple-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@snapend
-
-
-
-@snap[north span-25 ]
-<br>
-<br>
-<span style="font-size:0.9em">Oranges</span>
-@box[bg-brick text-white rounded my-box-pad2  ](<p style="line-height:60%">brick <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-orange text-white rounded my-box-pad2  ](<p style="line-height:60%">orange <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-lt-orange text-white rounded my-box-pad2  ](<p style="line-height:60%">lt-orange <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-gold2 text-white rounded my-box-pad2  ](<p style="line-height:60%">gold2 <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-lt-gold text-white rounded my-box-pad2  ](<p style="line-height:60%">lt-gold <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@snapend
-
-
-@snap[north-east span-25 ]
-<br>
-<br>
-<span style="font-size:0.9em">yellows</span>
-@box[bg-yellow-pp text-black rounded my-box-pad2  ](<p style="line-height:60%">yellow-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-yellow text-black rounded my-box-pad2  ](<p style="line-height:60%">yellow <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-cream text-black rounded my-box-pad2  ](<p style="line-height:60%">cream <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-cream2 text-black rounded my-box-pad2  ](<p style="line-height:60%">cream2 <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-white text-black rounded my-box-pad2  ](<p style="line-height:60%">white <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@snapend
-
-+++
-@title[Colors 02]
-<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span> - <span style="font-size:0.6em">Continued</span></p>
-
-@snap[north-west span-25 ]
-<br>
-<br>
-<span style="font-size:0.9em">blues</span>
-@box[bg-light-lt-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">light-lt-blue-pp <br>&nbsp;</span></p>)
-@box[bg-lt-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">lt-blue-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-blue text-white rounded my-box-pad2  ](<p style="line-height:60%">blue <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-blue-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">blue-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-royal text-white rounded my-box-pad2  ](<p style="line-height:60%">royal <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@snapend
-
-
-
-@snap[north span-25 ]
-<br>
-<br>
-<span style="font-size:0.9em">blues - greens</span>
-@box[bg-navy text-white rounded my-box-pad2  ](<p style="line-height:60%">navy <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-cyan text-white rounded my-box-pad2  ](<p style="line-height:60%">cyan <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-green text-white rounded my-box-pad2  ](<p style="line-height:60%">green <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-green-pp text-white rounded my-box-pad2  ](<p style="line-height:60%">green-pp <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-green2 text-white rounded my-box-pad2  ](<p style="line-height:60%">green2 <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@snapend
-
-
-@snap[north-east span-25 ]
-<br>
-<br>
-<span style="font-size:0.9em">other colors</span>
-@box[bg-u-term text-white rounded my-box-pad2  ](<p style="line-height:60%">u-term <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-ubuntu text-white rounded my-box-pad2  ](<p style="line-height:60%">ubuntu <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@box[bg-black text-white rounded my-box-pad2  ](<p style="line-height:60%">black <span style="font-size:0.9em"><br>&nbsp;</span></p>)
-@snapend
-
-
-+++
-@title[Colors 03]
-<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span> - <span style="font-size:0.6em">Greys - Grays</span></p>
-
-@snap[north-west span-25 ]
-<br>
-<br>
-<span style="font-size:0.9em">Dark Grey</span>
-@box[bg-grey-00 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">grey-00 <br>&nbsp;</span></p>)
-@box[bg-grey-05 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-05<br>&nbsp;</span></p>)
-@box[bg-grey-15 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-15<br>&nbsp;</span></p>)
-@box[bg-grey-25 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-25<br>&nbsp;</span></p>)
-@box[bg-grey-35 text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-35<br>&nbsp;</span></p>)
-@snapend
-
-
-@snap[north span-25 ]
-<br>
-<br>
-<span style="font-size:0.9em">Light Grey</span>
-@box[bg-grey-50 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">grey-50 <br>&nbsp;</span></p>)
-@box[bg-grey-65 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-65<br>&nbsp;</span></p>)
-@box[bg-grey-75 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-75<br>&nbsp;</span></p>)
-@box[bg-grey-85 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-85<br>&nbsp;</span></p>)
-@box[bg-grey-90 text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">grey-90<br>&nbsp;</span></p>)
-@snapend
-
-
-@snap[north-east span-25 ]
-<br>
-<br>
-<span style="font-size:0.9em">white/black</span>
-@box[bg-black text-white rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.8em">black grey-00<br>&nbsp;</span></p>)
-@box[bg-white text-black rounded my-box-pad2  ](<p style="line-height:60%"><span style="font-size:0.9em">white grey-100<br>&nbsp;</span></p>)
-@snapend
----
-@title[Colors - text]
-<p style="line-height:60%"  align="center" ><span class="gold"   >Colors </span><br>
-<span style="font-size:0.6em">Some example colors for  text defined in `patchme.css`</span></p>
-<p style="line-height:80%" ><span style="font-size:0.85em">
-@color[ yellow]( example color: yellow)<br>
-@color[#00FFFF]( example color: cyan)<br>
-@color[#87E2A9 ]( example color: lt_green )<br>
-@color[#A8ff60 ]( example color: lt_green2)<br>
-@color[#FFC000 ]( example color: gold2 )<br>
-@color[#BF5122 ]( example color: brick - hyper link )<br>
-@color[#e49436 ]( example color: gold - Slide Titles)<br>
-@color[gray ]( example color: gray)<br>
-@color[black ]( example color: black)<br>
-@color[#A20000]( example color: red)<br>
-@color[#ffffff]( white - default)
-</span></p>
-
-  
----  
-@title[Summary]
-<BR>
-### <p align="center"><span class="gold"   >Summary </span></p><br>
-<ul style="list-style-type:none">
- <li>@fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Point 1</span> </li>
- <li>@fa[certificate gp-bullet-cyan]<span style="font-size:0.9em">&nbsp;&nbsp;Point 2</span></li>
- <li>@fa[certificate gp-bullet-yellow]<span style="font-size:0.9em">&nbsp;&nbsp;Point 3</span> </li>
- <li>@fa[certificate gp-bullet-magenta]<span style="font-size:0.9em">&nbsp;&nbsp;Point 4 </span> </li>
-</ul>
