@@ -178,8 +178,6 @@ span.aside {
 }
 
 
-
-
 .reveal a.pro-link {
     font-size: 0.5em;
 }
@@ -197,9 +195,11 @@ span.aside {
 .reveal pre {
   width: 100%;
   box-shadow : none;
+   font-family: "Consolas";
 }
 .reveal pre code {
   font-size: 0.8em;
+     font-family: "Consolas";
   line-height: 1.0;
   max-height: 60vh !important;
   opacity: 0.95;
@@ -289,6 +289,10 @@ span.aside {
   margin-left: 10px; 
 }
 
+.gp-bullet-red2{ 
+  color:#ff0000;
+  margin-left: 10px; 
+}
 
 h6 {
     font-weight: bold;
@@ -345,6 +349,10 @@ table#recTable{width:100%; border:1px solid gray;}
 
 table#recTable2{width:110%; border:1px solid gray;}
 #recTable2 tr td {height:0.2px; border:1px solid gray;}
+
+table#recTable-1{width:100%; border:1px solid gray;}
+#recTable-1 tr td {height:0.01px; border:1px solid gray;}
+
 
 /* the following are for Back ground colors for using the boxes widget from gitpitch */
 

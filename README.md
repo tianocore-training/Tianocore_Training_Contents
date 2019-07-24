@@ -1,7 +1,7 @@
 <!--- @file
   Readme.md for UEFI / EDK II Training Tianocore Contents
 
-  Copyright (c) 2018, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -51,19 +51,8 @@ GitPitch slideshow presentations offer numerous keyboard controls and shortcuts 
 ---
 
 ## Schedule / outline
-The following is a link to the corresponding repository for each presentation.  Each repository has a link to the GitPitch slideshow.
-
-|Unit 1 | Unit 2 | Unit 3 | Unit 4 |
-| ----------------- | ------------------ | -------------- | -------------- |
-| [Overview UEFI/ FSP Boot Flow ](https://github.com/tianocore-training/UEFI_Boot_Flow_Pres)  | [UEFI Aware OS -UEFI Secure boot](https://github.com/tianocore-training/UEFI_Aware_OS_Pres)| [Porting a  EDK II Project using Open Source example ](https://github.com/tianocore-training/EDK_II_Porting_Projects_Pres)| [UEFI / EDK II Network ](https://github.com/tianocore-training/UEFI_EDK_II_Network_Pres) |
-| [EDK II Build Environment & Process](https://github.com/tianocore-training/EDK_II_Build_Process_Pres) | [EDK II Libraries and Modules and Drivers ](https://github.com/tianocore-training/EDK_II_Modules_Libs_Drivers_Pres) | [Porting EDK II Board - Apollo Lake](https://github.com/tianocore-training/EDK_II_Porting_Board_Pres) | [UEFI / EDK II Security ](https://github.com/tianocore-training/UEFI_Platform_Security_Pres)|
-| [EDK II Build Spec Files](https://github.com/tianocore-training/EDK_II_Build_Spec_Files_Pres) | [EDK II Platforms configuration Database (PCD)](https://github.com/tianocore-training/Platform_Config_DB_PCD_Pres)| [Porting Beyond the Shell w/ EDK II](https://github.com/tianocore-training/EDK_II_Porting_Beyond_Shell_Pres)| [UEFI / EDK II Capsule Update ](https://github.com/tianocore-training/Capsule_Update_Pres)|
-| [Open Source UEFI Platforms](https://github.com/tianocore-training/OpenSource_Platforms_Pres) | Writing UEFI Applications Lab [Linux](https://github.com/tianocore-training/Writing_UEFI_App_Lab) or [Windows ](https://github.com/tianocore-training/Writing_UEFI_App_Win_Lab) | EDK II Debugging Lab [Linux](https://github.com/tianocore-training/EDK_II_Debugging_Pres_Lab) or [Windows ](https://github.com/tianocore-training/EDK_II_Debugging_Pres_Win_Lab) | [UEFI / EDK II - HII Lab ](https://github.com/tianocore-training/UEFI_HII_Overview_Pres_Lab)|
-| EDK II Platform Build Lab [Linux](https://github.com/tianocore-training/Platform_Build_Lab) or [Windows](https://github.com/tianocore-training/Platform_Build_Win_Lab) | [UEFI Driver Model  ](https://github.com/tianocore-training/UEFI_Driver_Pres) | [Source Level Debugging w/ UDK Debugger](https://github.com/tianocore-training/EDK_II_UDK_Debugger_Pres)| &nbsp; |
-| Platform Build Lab Apollo Lake UP2 [Linux](https://github.com/tianocore-training/Platform_Build_Lab_UP2_Linux) or [Windows](https://github.com/tianocore-training/Platform_Build_Lab_UP2_WIN) | UEFI Driver Wizard Lab [Linux](https://github.com/tianocore-training/UEFI_Driver_Wizard_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Driver_Wizard_Win_Lab) | &nbsp; |&nbsp; |
-| [UEFI Shell Application](https://github.com/tianocore-training/UEFI_Shell_App_Pres) | UEFI Driver Porting Lab  [Linux](https://github.com/tianocore-training/UEFI_Driver_Porting_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Driver_Porting_Win_Lab) | &nbsp; |&nbsp; |
-| UEFI Shell Lab [Linux](https://github.com/tianocore-training/UEFI_Shell_Lab) or [Windows](https://github.com/tianocore-training/UEFI_Shell_Win_Lab) | &nbsp;  | &nbsp; |&nbsp; |
-|  &nbsp;  | &nbsp;  | &nbsp; |&nbsp; |
+The following [Schedule Outline](https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline)
+is a link to the corresponding repository for each presentation.  Each repository has a link to the GitPitch slideshow.  Please note Microsoft Internet Explorer is not supported by GitPitch.
 
 
 
@@ -90,16 +79,7 @@ The following github repositories contain the Lab Material :
 	  
 	  
 ## On-line Self Paced web-based training:
-See full description at : https://github.com/tianocore/tianocore.github.io/wiki/UEFI-EDKII-Learning-Dev 
-
-|Download |	Description|
-| ----------------- | ------------------ |
-|[Zip file** ](https://github.com/tianocore-training/Lesson-0/archive/master.zip) | Lesson 0: Defining Specifications' Role in Firmware |
-|[Zip File** ](https://github.com/tianocore-training/Lesson-1/archive/master.zip) | Lesson 1: Course Introduction and Pre-EFI (PEI) and Security (SEC) Phases |
-|[Zip File**](https://github.com/tianocore-training/Lesson-2/archive/master.zip) | Lesson 2: Driver Execution Environment (DXE) |
-|[Zip File**](https://github.com/tianocore-training/Lesson-3/archive/master.zip) | Lesson 3: UEFI Drivers |
-|[Zip File**](https://github.com/tianocore-training/Lesson-4/archive/master.zip) |Lesson 4: Firmware and Data Storage|
-|[Zip File**](https://github.com/tianocore-training/Lesson-5/archive/master.zip) |Lesson 5: Boot Device Selection (BDS) and Human Interface Infrastructure (HII)|
+See full description at : [tianocore wiki]( https://github.com/tianocore/tianocore.github.io/wiki/UEFI-EDKII-Learning-Dev )
 
 
 ## For questions 
