@@ -108,8 +108,8 @@ Unit 4
  @fa[certificate gp-bullet-gold]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/EDK_II_OpenBoard_Porting/master#/' >EDK II OpenBoard Platform Porting</a> </span><br>
  @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/EDK_II_Debugging_Pres_Lab/master#/' >EDK II Debugging Presentation and @fa[linux gp-bullet-gold] Lab</a> 
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or <a href='https://gitpitch.com/tianocore-training/EDK_II_Debugging_Pres_Win_Lab/master#/' >Presentation and @fa[windows gp-bullet-cyan] Lab</a></span> <br>
- @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/EDK_II_UDK_Debugger_Pres/master#/' >Source Level Debugging w/ Intel® UDK Debugger</a> </span> 
- @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em">Outdated, <a href='https://gitpitch.com/tianocore-training/EDK_II_Porting_Board_Pres/master#/' >Porting a New Board (example Apollo Lake) </a> </span><br>
+ @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.9em"><a href='https://gitpitch.com/tianocore-training/EDK_II_UDK_Debugger_Pres/master#/' >Source Level Debugging w/ Intel® UDK Debugger</a> </span> <br>
+ @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.9em">Outdated, <a href='https://gitpitch.com/tianocore-training/EDK_II_Porting_Board_Pres/master#/' >Porting a New Board ( Apollo Lake) </a> </span><br>
 
 ---  
 @title[Schedule 04]
