@@ -34,6 +34,22 @@ Table of Contents and suggested course Schedule using [GitPitch]( https://gitpit
   
 To see the Slides with links to the presentations goto https://gitpitch.com/tianocore-training/Tianocore_Training_Contents/master#/
 
+See schedule and contents: https://github.com/tianocore-training/Tianocore_Training_Contents/wiki
+
+
+---
+
+## Schedule / outline
+The following [Schedule Outline](https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline)
+is a link to the corresponding repository for each presentation.  Each repository has a link to the GitPitch slideshow.  Please note Microsoft Internet Explorer is not supported by GitPitch.
+
+
+	  
+## On-line Self Paced web-based training:
+See full description at : [tianocore wiki]( https://github.com/tianocore/tianocore.github.io/wiki/UEFI-EDKII-Learning-Dev )
+
+
+
 ---
 ### GitPitch Key press controls
 
@@ -49,38 +65,5 @@ GitPitch slideshow presentations offer numerous keyboard controls and shortcuts 
 - Navigation,  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ")
 
 ---
-
-## Schedule / outline
-The following [Schedule Outline](https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline)
-is a link to the corresponding repository for each presentation.  Each repository has a link to the GitPitch slideshow.  Please note Microsoft Internet Explorer is not supported by GitPitch.
-
-
-
-
-## Lab Training Material
-The following github repositories contain the Lab Material :  
-
-- [Lab_Material_FW]( https://github.com/tianocore-training/Lab_Material_FW)
-  - FW
-     - Documentation
-     - DriverWizard
-     - edk2 (- Same as https://github.com/tianocore/edk2 )
-     - LabSampleCode
-- [PlatformBuildLab_FW](https://github.com/tianocore-training/PlatformBuildLab_FW)
-  - FW
-    - PlatformBuildLab
-      - Max (- source code for the Minnowboard Max / Turbot V 1.00)
-
-- [PlatformBuildLab_UP2 FW](https://github.com/tianocore-training/PlatformBuildLab_UP2_FW)
-  - FW
-    - PlatformBuildLab
-      - MV3 (- source code for the Apollo Lake build support for UP Squared Board)
-	  
-	  
-	  
-## On-line Self Paced web-based training:
-See full description at : [tianocore wiki]( https://github.com/tianocore/tianocore.github.io/wiki/UEFI-EDKII-Learning-Dev )
-
-
 ## For questions 
 [email laurie0131](mailto:laurie.jarlstrom@intel.com)
