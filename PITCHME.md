@@ -72,7 +72,7 @@ Unit 4
 @fa[certificate gp-bullet-green]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/UEFI_Boot_Flow_Pres/master#/' >Overview UEFI Boot Flow </a> </span><br>
 @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/EDK_II_Build_Process_Pres/master#/' >EDK II Build Process</a> and <a href='https://gitpitch.com/tianocore-training/EDK_II_Build_Spec_Files_Pres/master#/' >Build Spec Files </a> </span><br>
 @fa[certificate gp-bullet-magenta]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/OpenSource_Platforms_Pres/master#/' >EDK II Open Source Platforms </a> </span><br>
-@fa[certificate gp-bullet-ltgreen]&nbsp;&nbsp;<span style="font-size:0.8em">EDK II Build Labs <a href="https://gitpitch.com/tianocore-training/Platform_Build_Linux_Ovmf_Lab/master#/">@fa[linux gp-bullet-gold] Ovmf</a> @color[yellow](<i>OR</i>) <a href="https://gitpitch.com/tianocore-training/Platform_Build_Win_Emulator_Lab/master#/">@fa[windows gp-bullet-cyan] Emulator</a> 
+@fa[certificate gp-bullet-ltgreen]&nbsp;&nbsp;<span style="font-size:0.8em">EDK II Build Labs <a href="https://gitpitch.com/tianocore-training/Platform_Build_Linux_Ovmf_Lab/master#/">@fa[linux gp-bullet-gold] Ovmf</a> @color[yellow](<i>OR</i>) <a href="https://gitpitch.com/tianocore-training/Platform_Build_Win_Emulator_Lab/master#/">@fa[windows gp-bullet-cyan] Emulator</a> </span><br>
 @fa[certificate gp-bullet-blue]&nbsp;&nbsp;<span style="font-size:0.8em">Platform Build Labs MinnowBaord MAX <a href="https://gitpitch.com/tianocore-training/Platform_Build_Lab_MAX_Linux/master#/"> @fa[linux gp-bullet-gold]</a> Or <a href="https://gitpitch.com/tianocore-training/Platform_Build_Lab_MAX_Win/master#/"> @fa[windows gp-bullet-cyan]</a> </span><br>
 @fa[certificate gp-bullet-cyan]&nbsp;&nbsp;<span style="font-size:0.8em">Platform Build Lab Apollo Lake (UP<sup>2</sup> board) <a href='https://gitpitch.com/tianocore-training/Platform_Build_Lab_UP2_Linux/master#/' >@fa[linux gp-bullet-gold]</a> Or <a href="https://gitpitch.com/tianocore-training/Platform_Build_Lab_UP2_Win/master#/"> @fa[windows gp-bullet-cyan]</a> </span><br>
 @fa[certificate gp-bullet-yellow]&nbsp;&nbsp;<span style="font-size:0.8em"><a href='https://gitpitch.com/tianocore-training/UEFI_Shell_App_Pres/master#/' >UEFI Shell Overview</a> & <a href='https://gitpitch.com/tianocore-training/UEFI_Shell_Lab/master#/' >@fa[linux gp-bullet-gold] Shell Lab </a> Or <a href="https://gitpitch.com/tianocore-training/UEFI_Shell_Win_Lab/master#/"> @fa[windows gp-bullet-cyan]Nt32 Shell Lab</a> </span><br>
@@ -124,37 +124,36 @@ Unit 4
  
 ---
 @title[Lab Material]
-<p align="center"<span class="gold"   ><b>Lab Material</b></span></p>
-<span style="font-size:0.9em">The following github repositories contain the Lab Material :  </span>
-
-<ul style="list-style-type:disc; line-height:0.7;">
-   <li><span style="font-size:0.7em"><a href="https://github.com/tianocore-training/Lab_Material_FW">Lab Material FW</a></span></li>
-   <li> <span style="font-size:0.7em">Documentation</span></li>
-   <li> <span style="font-size:0.7em">DriverWizard</span></li>
-   <li> <span style="font-size:0.7em">edk2-ws </span></li>
-   <ul style="list-style-type:disc" style="line-height:0.7;">
-     <li> <span style="font-size:0.67em">edk2(- Same as https://github.com/tianocore/edk2 )</span></li>
-     <li> <span style="font-size:0.67em">edk2-libc(- Same as https://github.com/tianocore/edk2-libc )</span></li>
+<p align="center"<span class="gold"   ><b>Lab Material</b></span><br>
+<span style="font-size:0.75em">The following github repositories contain the Lab Material :  </span></p>
+<ul style="list-style-type:disc; line-height:0.67;">
+   <li><span style="font-size:0.67em"><a href="https://github.com/tianocore-training/Lab_Material_FW">Lab Material FW</a></span></li>
+   <li> <span style="font-size:0.67em">Documentation</span></li>
+   <li> <span style="font-size:0.67em">DriverWizard</span></li>
+   <li> <span style="font-size:0.67em">edk2-ws </span></li>
+   <ul style="list-style-type:disc" style="line-height:0.6;">
+     <li> <span style="font-size:0.6em">edk2(- Same as https://github.com/tianocore/edk2 )</span></li>
+     <li> <span style="font-size:0.6em">edk2-libc(- Same as https://github.com/tianocore/edk2-libc )</span></li>
    </ul>
-   <li> <span style="font-size:0.7em">LabSampleCode</span></li>
+   <li> <span style="font-size:0.67em">LabSampleCode</span></li>
  </ul>
- <li><span style="font-size:0.7em"><a href="https://github.com/tianocore-training/PlatformBuildLab2_FW">PlatformBuildLab2_FW</a></span></li>
- <ul style="list-style-type:disc" style="line-height:0.7;">
-  <li> <span style="font-size:0.7em">PlatformBuildLab</span></li>
-   <ul style="list-style-type:disc" style="line-height:0.7;">
-     <li><span style="font-size:0.67em">MaxWS (- source code for the Minnowboard Max / Turbot -master tip - edk2) </span></li>
+ <li><span style="font-size:0.67em"><a href="https://github.com/tianocore-training/PlatformBuildLab2_FW">PlatformBuildLab2_FW</a></span></li>
+ <ul style="list-style-type:disc" style="line-height:0.67;">
+  <li> <span style="font-size:0.67em">PlatformBuildLab</span></li>
+   <ul style="list-style-type:disc" style="line-height:0.6;">
+     <li><span style="font-size:0.6em">MaxWS (- source code for the Minnowboard Max ) </span></li>
 	</ul> 
   </ul>
- <li><span style="font-size:0.7em"><a href="https://github.com/tianocore-training/PlatformBuildLab_UP2_FW">PlatformBuildLab_UP2_FW</a></span></li>
- <ul style="list-style-type:disc" style="line-height:0.7;">
-  <li> <span style="font-size:0.7em">PlatformBuildLab</span></li>
-   <ul style="list-style-type:disc" style="line-height:0.7;">
-     <li><span style="font-size:0.67em">MV3 (- source code for - Apollo Lake (Broxton - UP<sup>2</sup> board)) </span></li>
+ <li><span style="font-size:0.67em"><a href="https://github.com/tianocore-training/PlatformBuildLab_UP2_FW">PlatformBuildLab_UP2_FW</a></span></li>
+ <ul style="list-style-type:disc" style="line-height:0.67;">
+  <li> <span style="font-size:0.67em">PlatformBuildLab</span></li>
+   <ul style="list-style-type:disc" style="line-height:0.6;">
+     <li><span style="font-size:0.6em">MV3 (- source code for - Apollo Lake (Broxton - UP<sup>2</sup> board)) </span></li>
 	</ul> 
   </ul>
- <li><span style="font-size:0.7em"><a href="https://github.com/tianocore-training/Presentation_FW">Presentation_FW</a></span></li>
-   <ul style="list-style-type:disc" style="line-height:0.7;">
-     <li><span style="font-size:0.67em">Presentations - PDFs of all slides  </span></li>
+ <li><span style="font-size:0.67em"><a href="https://github.com/tianocore-training/Presentation_FW">Presentation_FW</a></span></li>
+   <ul style="list-style-type:disc" style="line-height:0.6;">
+     <li><span style="font-size:0.6em">Presentations - PDFs of all slides  </span></li>
    </ul> 
 </ul>
  
@@ -213,19 +212,19 @@ Unit 4
 		<td bgcolor="#121212" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >EDK II Build Lab <a href="https://github.com/tianocore-training/Platform_Build_Linux_Ovmf_Lab">@fa[linux gp-bullet-gold]</a> &nbsp; <a href="https://github.com/tianocore-training/Platform_Build_Win_Emulator_Lab">@fa[windows gp-bullet-cyan]</a></span></p></td>
 		<td bgcolor="#121212" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" ><a href="https://github.com/tianocore-training/UEFI_Driver_Pres">UEFI Drivers</a></span></p></td>
 		<td bgcolor="#121212" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" ><a href="https://github.com/tianocore-training/EDK_II_Porting_Board_Pres">Outdated: Porting Board </a></span></p></td>
-	<td bgcolor="#121212" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >&nbsp; </span></p></td>
+	    <td bgcolor="#121212" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >&nbsp; </span></p></td>
 	</tr>
 	<tr>
 		<td bgcolor="#323232" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" ><a href="https://github.com/tianocore-training/UEFI_Shell_App_Pres">UEFI Shell App </a></span></p></td>
 		<td bgcolor="#323232" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >Driver Wizard Lab <a href="https://github.com/tianocore-training/UEFI_Driver_Wizard_Lab">@fa[linux gp-bullet-gold]</a>&nbsp; <a href="https://github.com/tianocore-training/UEFI_Driver_Wizard_Win_Lab">@fa[windows gp-bullet-cyan]</a></span></p></td>
-		<td bgcolor="#121212" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >Platform Build Lab MAX <a href="https://github.com/tianocore-training/Platform_Build_Lab_MAX_Linux">@fa[linux gp-bullet-gold]</a>  <a href"https://github.com/tianocore-training/Platform_Build_Lab_MAX_Win"> @fa[windows gp-bullet-cyan]</a></span></p></td>
+		<td bgcolor="#323232" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >Platform Build Lab MAX <a href="https://github.com/tianocore-training/Platform_Build_Lab_MAX_Linux">@fa[linux gp-bullet-gold]</a>  <a href"https://github.com/tianocore-training/Platform_Build_Lab_MAX_Win"> @fa[windows gp-bullet-cyan]</a></span></p></td>
 		<td bgcolor="#323232" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >&nbsp; </span></p></td>
 	</tr>
 	<tr>
 		<td bgcolor="#121212" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >Shell Lab<a href="https://github.com/tianocore-training/UEFI_Shell_Lab">@fa[linux gp-bullet-gold]</a>&nbsp; <a href="https://github.com/tianocore-training/UEFI_Shell_Win_Lab">@fa[windows gp-bullet-cyan]</a></span></p></td>
 		<td bgcolor="#121212" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >UEFI Driver Lab<a href="https://github.com/tianocore-training/UEFI_Driver_Porting_Lab">@fa[linux gp-bullet-gold]</a>&nbsp; <a href="https://github.com/tianocore-training/UEFI_Driver_Porting_Win_Lab">@fa[windows gp-bullet-cyan]</a></span></p></td>
 		<td bgcolor="#121212" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >Platform Build Lab UP<sup>2</sup> <a href="https://github.com/tianocore-training/Platform_Build_Lab_UP2_Linux">@fa[linux gp-bullet-gold]</a>  <a href"https://github.com/tianocore-training/Platform_Build_Lab_UP2_WIN"> @fa[windows gp-bullet-cyan]</a></span></p></td>
-		<td bgcolor="#323232" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >&nbsp; </span></p></td>
+		<td bgcolor="#121212" height=".0025"><p style="line-height:001%"><span style="font-size:0.45em" >&nbsp; </span></p></td>
 	</tr>
 </table>
 
