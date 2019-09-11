@@ -127,28 +127,29 @@ Unit 4
 <p align="center"<span class="gold"   ><b>Lab Material</b></span><br>
 <span style="font-size:0.75em">The following github repositories contain the Lab Material :  </span></p>
 <ul style="list-style-type:disc; line-height:0.67;">
-   <li><span style="font-size:0.67em"><a href="https://github.com/tianocore-training/Lab_Material_FW">Lab Material FW</a></span></li>
-   <li> <span style="font-size:0.67em">Documentation</span></li>
-   <li> <span style="font-size:0.67em">DriverWizard</span></li>
-   <li> <span style="font-size:0.67em">edk2-ws </span></li>
-   <ul style="list-style-type:disc" style="line-height:0.6;">
-     <li> <span style="font-size:0.6em">edk2(- Same as https://github.com/tianocore/edk2 )</span></li>
-     <li> <span style="font-size:0.6em">edk2-libc(- Same as https://github.com/tianocore/edk2-libc )</span></li>
+ <li><span style="font-size:0.67em"><a href="https://github.com/tianocore-training/Lab_Material_FW">Lab Material FW</a></span></li>
+ <ul style="list-style-type:disc" style="line-height:0.6;">
+   <li><span style="font-size:0.6em">Documentation</span></li>
+   <li><span style="font-size:0.6em">DriverWizard</span></li>
+   <li><span style="font-size:0.6em">edk2-ws </span></li>
+   <ul style="list-style-type:disc" style="line-height:0.56;">
+     <li> <span style="font-size:0.56em">edk2(- Same as https://github.com/tianocore/edk2 )</span></li>
+     <li> <span style="font-size:0.56em">edk2-libc(- Same as https://github.com/tianocore/edk2-libc )</span></li>
    </ul>
-   <li> <span style="font-size:0.67em">LabSampleCode</span></li>
+   <li> <span style="font-size:0.6em">LabSampleCode</span></li>
  </ul>
  <li><span style="font-size:0.67em"><a href="https://github.com/tianocore-training/PlatformBuildLab2_FW">PlatformBuildLab2_FW</a></span></li>
- <ul style="list-style-type:disc" style="line-height:0.67;">
-  <li> <span style="font-size:0.67em">PlatformBuildLab</span></li>
-   <ul style="list-style-type:disc" style="line-height:0.6;">
-     <li><span style="font-size:0.6em">MaxWS (- source code for the Minnowboard Max ) </span></li>
+ <ul style="list-style-type:disc" style="line-height:0.6;">
+  <li> <span style="font-size:0.6em">PlatformBuildLab</span></li>
+   <ul style="list-style-type:disc" style="line-height:0.56;">
+     <li><span style="font-size:0.56em">MaxWS (- source code for the Minnowboard Max ) </span></li>
 	</ul> 
   </ul>
  <li><span style="font-size:0.67em"><a href="https://github.com/tianocore-training/PlatformBuildLab_UP2_FW">PlatformBuildLab_UP2_FW</a></span></li>
- <ul style="list-style-type:disc" style="line-height:0.67;">
-  <li> <span style="font-size:0.67em">PlatformBuildLab</span></li>
-   <ul style="list-style-type:disc" style="line-height:0.6;">
-     <li><span style="font-size:0.6em">MV3 (- source code for - Apollo Lake (Broxton - UP<sup>2</sup> board)) </span></li>
+ <ul style="list-style-type:disc" style="line-height:0.6;">
+  <li> <span style="font-size:0.6em">PlatformBuildLab</span></li>
+   <ul style="list-style-type:disc" style="line-height:0.56;">
+     <li><span style="font-size:0.56em">MV3 (- source code for - Apollo Lake (Broxton - UP<sup>2</sup> board)) </span></li>
 	</ul> 
   </ul>
  <li><span style="font-size:0.67em"><a href="https://github.com/tianocore-training/Presentation_FW">Presentation_FW</a></span></li>
@@ -176,7 +177,7 @@ Unit 4
  
 ---  
 @title[Schedule 2]
-<p align="right"><span class="gold" >@size[1.1em](<b>Github of Suggested Schedule </b>)</span><br>
+<p align="right"><span class="gold" >@size[1.1em](<b>Github links of Suggested Schedule </b>)</span><br>
 <table id="recTable">
 	<tr>
 		<td bgcolor="#0071c5" height=".0025"><p style="line-height:001%"><span style="font-size:0.5em" ><b>Unit 1</b></span></p></td>
