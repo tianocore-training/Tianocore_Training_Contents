@@ -1,7 +1,7 @@
 <!--- @file
   Readme.md for UEFI / EDK II Training Tianocore Contents
 
-  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -30,11 +30,8 @@
 -->
 
 # Tianocore_Training_Contents
-Table of Contents and suggested course Schedule using [GitPitch]( https://gitpitch.com/docs/) on-line slideshow viewer.
-  
-To see the Slides with links to the presentations goto https://gitpitch.com/tianocore-training/Tianocore_Training_Contents/master#/
-
-See schedule and contents: https://github.com/tianocore-training/Tianocore_Training_Contents/wiki
+Table of Contents and suggested course Schedule 
+See: https://github.com/tianocore-training/Tianocore_Training_Contents/wiki
 
 
 ---
@@ -51,18 +48,10 @@ See full description at : [tianocore wiki]( https://github.com/tianocore/tianoco
 
 
 ---
-### GitPitch Key press controls
+### GitPitch 
 
-GitPitch slideshow presentations offer numerous keyboard controls and shortcuts to help presentation authors and their audiences to navigate and interact with slideshow content.
+**GitPitch will EOL March 2021**
 
--  Press **F** for full screen
--  Press **O** for Overview
--  Press **B** for Blackout 
--  Press **M** for menu
--  Press **?** for help
--  Press **S** for Speaker notes
-- To get a PDF of the presentation, use the lower left white bars ( "&equiv;" ) and select "Print Version(.pdf)"
-- Navigation,  Space - Arrow keys - Page Down ( Arrows at bottom right show Next slide or sub-slides) ( " < &or; > ")
 
 ---
 ## For questions 
