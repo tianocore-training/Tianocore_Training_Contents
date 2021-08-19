@@ -3,6 +3,8 @@
 <br><br><br><br><br>
 ## <span class="gold"   >UEFI & EDK II Training</span>
 
+To see Presentations go to : <a href='https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline'> https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline a> 
+
 #### Training Table of contents
 
 <br>
@@ -10,7 +12,7 @@
 Note:
   PITCHME.md for UEFI / EDK II Training  Contents and Overview
 
-  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2020, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -38,7 +40,12 @@ Note:
 
 ---  
 @title[Schedule]
-#### <p align="center"<span class="gold"   >Suggested Schedule </span></p>
+#### Suggested Schedule </span></p>
+### The GITPITCH has been closed
+To see Presentations go to : <a href='https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline'> https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline
+
+
+
 
 <span style="font-size:0.8em">The next slides will have links to the appropriate slide show in the suggested order. </span>
 - <font color="yellow">Unit 1:</font>  <span style="font-size:0.8em">Overview of EDK II, UEFI Shell Lab, Platform Build Lab</span><br>

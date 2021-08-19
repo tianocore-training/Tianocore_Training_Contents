@@ -51,6 +51,7 @@ See full description at : [tianocore wiki]( https://github.com/tianocore/tianoco
 ### GitPitch 
 
 **GitPitch will EOL March 2021**
+All Presentations have moved to PDF format.  See https://github.com/tianocore-training/Presentation_FW  for copies of PDFs
 
 
 ---
